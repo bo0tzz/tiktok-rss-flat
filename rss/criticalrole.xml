@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@criticalrole</id>
   <title>criticalrole TikTok</title>
-  <updated>2023-02-09T23:02:57+00:00</updated>
+  <updated>2023-02-13T18:56:51+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://bo0tzz.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from criticalrole</subtitle>
-  <entry>
-    <id>https://tiktok.com/@criticalrole/video/7197528377367022894</id>
-    <title>A quick acting lesson from Pike and Grog @ashleythejohnson69 @willingblam   #criticalrole  #thelegendofvoxmachina #grogstrongjaw #piketrickfoot</title>
-    <updated>2023-02-07T21:29:53+00:00</updated>
-    <content>A quick acting lesson from Pike and Grog @ashleythejohnson69 @willingblam   #criticalrole  #thelegendofvoxmachina #grogstrongjaw #piketrickfoot</content>
-    <link href="https://tiktok.com/@criticalrole/video/7197528377367022894" rel="alternate"/>
-    <published>2023-02-07T21:29:53+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@criticalrole/video/7197622447233944874</id>
     <title>Hi Troy Baker! Are you at our #thelegendofvoxmachina watch party tonight? @laurabaileyvo @samriegel @willingblam  #thelastofus #troybaker</title>
@@ -51,5 +43,13 @@
     <content>@laurabaileyvo’s rendition of makin’ my way absolutely needed to be preserved forever on TikTok after our last watch party #thelegendofvoxmachina #criticalrole #laurabailey #vexahlia #jesterlavorre </content>
     <link href="https://tiktok.com/@criticalrole/video/7198295443518852394" rel="alternate"/>
     <published>2023-02-09T23:02:57+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@criticalrole/video/7199715593757707566</id>
+    <title>Closet tour with The Master of Sponsors @samriegel! #criticalrole #improv#samriegel #costumes #ttrpg #scanlanshorthalt</title>
+    <updated>2023-02-13T18:56:51+00:00</updated>
+    <content>Closet tour with The Master of Sponsors @samriegel! #criticalrole #improv#samriegel #costumes #ttrpg #scanlanshorthalt</content>
+    <link href="https://tiktok.com/@criticalrole/video/7199715593757707566" rel="alternate"/>
+    <published>2023-02-13T18:56:51+00:00</published>
   </entry>
 </feed>
