@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@criticalrole</id>
   <title>criticalrole TikTok</title>
-  <updated>2023-02-15T03:17:38+00:00</updated>
+  <updated>2023-02-15T18:43:47+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://bo0tzz.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from criticalrole</subtitle>
-  <entry>
-    <id>https://tiktok.com/@criticalrole/video/7197962363562249518</id>
-    <title>Favorite dice highlights with @laurabaileyvo! #criticalrole #dice  #tabletop #ttrpg #rpgdice</title>
-    <updated>2023-02-09T01:32:38+00:00</updated>
-    <content>Favorite dice highlights with @laurabaileyvo! #criticalrole #dice  #tabletop #ttrpg #rpgdice</content>
-    <link href="https://tiktok.com/@criticalrole/video/7197962363562249518" rel="alternate"/>
-    <published>2023-02-09T01:32:38+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@criticalrole/video/7198286273860078890</id>
     <title>Just in case you missed @samriegel and @ashleythejohnson69 makin’ their way #samriegel #ashleyjohnson #criticalrole #thelegendofvoxmachina #yehaw #countrymusic </title>
@@ -51,5 +43,13 @@
     <content>Have normal interactions with us at tonight's #TheLegendOfVoxMachina watch party! @matthewmercervo @samriegel #criticalrole #mattmercer#samriegel</content>
     <link href="https://tiktok.com/@criticalrole/video/7200216201287437611" rel="alternate"/>
     <published>2023-02-15T03:17:38+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@criticalrole/video/7200454612992675114</id>
+    <title>@samriegel's Ginger Snap Rap ft. @willingblam #criticalrole #improv #ttrpg #rpg #rap #tabletop #samriegel #traviswilligham #mattmercer #marisharay</title>
+    <updated>2023-02-15T18:43:47+00:00</updated>
+    <content>@samriegel's Ginger Snap Rap ft. @willingblam #criticalrole #improv #ttrpg #rpg #rap #tabletop #samriegel #traviswilligham #mattmercer #marisharay</content>
+    <link href="https://tiktok.com/@criticalrole/video/7200454612992675114" rel="alternate"/>
+    <published>2023-02-15T18:43:47+00:00</published>
   </entry>
 </feed>
