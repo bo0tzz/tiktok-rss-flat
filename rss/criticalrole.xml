@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@criticalrole</id>
   <title>criticalrole TikTok</title>
-  <updated>2023-02-13T18:56:51+00:00</updated>
+  <updated>2023-02-15T03:17:38+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://bo0tzz.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from criticalrole</subtitle>
-  <entry>
-    <id>https://tiktok.com/@criticalrole/video/7197622447233944874</id>
-    <title>Hi Troy Baker! Are you at our #thelegendofvoxmachina watch party tonight? @laurabaileyvo @samriegel @willingblam  #thelastofus #troybaker</title>
-    <updated>2023-02-08T03:33:23+00:00</updated>
-    <content>Hi Troy Baker! Are you at our #thelegendofvoxmachina watch party tonight? @laurabaileyvo @samriegel @willingblam  #thelastofus #troybaker</content>
-    <link href="https://tiktok.com/@criticalrole/video/7197622447233944874" rel="alternate"/>
-    <published>2023-02-08T03:33:23+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@criticalrole/video/7197962363562249518</id>
     <title>Favorite dice highlights with @laurabaileyvo! #criticalrole #dice  #tabletop #ttrpg #rpgdice</title>
@@ -51,5 +43,13 @@
     <content>Closet tour with The Master of Sponsors @samriegel! #criticalrole #improv#samriegel #costumes #ttrpg #scanlanshorthalt</content>
     <link href="https://tiktok.com/@criticalrole/video/7199715593757707566" rel="alternate"/>
     <published>2023-02-13T18:56:51+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@criticalrole/video/7200216201287437611</id>
+    <title>Have normal interactions with us at tonight's #TheLegendOfVoxMachina watch party! @matthewmercervo @samriegel #criticalrole #mattmercer#samriegel</title>
+    <updated>2023-02-15T03:17:38+00:00</updated>
+    <content>Have normal interactions with us at tonight's #TheLegendOfVoxMachina watch party! @matthewmercervo @samriegel #criticalrole #mattmercer#samriegel</content>
+    <link href="https://tiktok.com/@criticalrole/video/7200216201287437611" rel="alternate"/>
+    <published>2023-02-15T03:17:38+00:00</published>
   </entry>
 </feed>
