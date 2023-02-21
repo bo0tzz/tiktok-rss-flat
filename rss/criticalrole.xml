@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@criticalrole</id>
   <title>criticalrole TikTok</title>
-  <updated>2023-02-15T18:43:47+00:00</updated>
+  <updated>2023-02-21T16:19:34+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://bo0tzz.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from criticalrole</subtitle>
-  <entry>
-    <id>https://tiktok.com/@criticalrole/video/7198286273860078890</id>
-    <title>Just in case you missed @samriegel and @ashleythejohnson69 makin’ their way #samriegel #ashleyjohnson #criticalrole #thelegendofvoxmachina #yehaw #countrymusic </title>
-    <updated>2023-02-09T22:27:14+00:00</updated>
-    <content>Just in case you missed @samriegel and @ashleythejohnson69 makin’ their way #samriegel #ashleyjohnson #criticalrole #thelegendofvoxmachina #yehaw #countrymusic </content>
-    <link href="https://tiktok.com/@criticalrole/video/7198286273860078890" rel="alternate"/>
-    <published>2023-02-09T22:27:14+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@criticalrole/video/7198295443518852394</id>
     <title>@laurabaileyvo’s rendition of makin’ my way absolutely needed to be preserved forever on TikTok after our last watch party #thelegendofvoxmachina #criticalrole #laurabailey #vexahlia #jesterlavorre </title>
@@ -51,5 +43,13 @@
     <content>@samriegel's Ginger Snap Rap ft. @willingblam #criticalrole #improv #ttrpg #rpg #rap #tabletop #samriegel #traviswilligham #mattmercer #marisharay</content>
     <link href="https://tiktok.com/@criticalrole/video/7200454612992675114" rel="alternate"/>
     <published>2023-02-15T18:43:47+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@criticalrole/video/7202644130374126890</id>
+    <title>YOU CAN'T PUT THIS ON TIKTOK #criticalrole #tabletop #improv #ttrpg #ttrpgtok #marisharay #traviswilligham #sound  @marisharaygun @willingblam</title>
+    <updated>2023-02-21T16:19:34+00:00</updated>
+    <content>YOU CAN'T PUT THIS ON TIKTOK #criticalrole #tabletop #improv #ttrpg #ttrpgtok #marisharay #traviswilligham #sound  @marisharaygun @willingblam</content>
+    <link href="https://tiktok.com/@criticalrole/video/7202644130374126890" rel="alternate"/>
+    <published>2023-02-21T16:19:34+00:00</published>
   </entry>
 </feed>
