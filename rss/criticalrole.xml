@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@criticalrole</id>
   <title>criticalrole TikTok</title>
-  <updated>2023-02-21T16:19:34+00:00</updated>
+  <updated>2023-02-22T16:49:47+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://bo0tzz.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from criticalrole</subtitle>
-  <entry>
-    <id>https://tiktok.com/@criticalrole/video/7198295443518852394</id>
-    <title>@laurabaileyvo’s rendition of makin’ my way absolutely needed to be preserved forever on TikTok after our last watch party #thelegendofvoxmachina #criticalrole #laurabailey #vexahlia #jesterlavorre </title>
-    <updated>2023-02-09T23:02:57+00:00</updated>
-    <content>@laurabaileyvo’s rendition of makin’ my way absolutely needed to be preserved forever on TikTok after our last watch party #thelegendofvoxmachina #criticalrole #laurabailey #vexahlia #jesterlavorre </content>
-    <link href="https://tiktok.com/@criticalrole/video/7198295443518852394" rel="alternate"/>
-    <published>2023-02-09T23:02:57+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@criticalrole/video/7199715593757707566</id>
     <title>Closet tour with The Master of Sponsors @samriegel! #criticalrole #improv#samriegel #costumes #ttrpg #scanlanshorthalt</title>
@@ -51,5 +43,13 @@
     <content>YOU CAN'T PUT THIS ON TIKTOK #criticalrole #tabletop #improv #ttrpg #ttrpgtok #marisharay #traviswilligham #sound  @marisharaygun @willingblam</content>
     <link href="https://tiktok.com/@criticalrole/video/7202644130374126890" rel="alternate"/>
     <published>2023-02-21T16:19:34+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@criticalrole/video/7203022813878308139</id>
+    <title>We had to let you see @ashleythejohnson69 and @samriegel practicing Makin' My Way #criticalrole #samriegel #ashleyjohnson #thelegendofvoxmachina #song</title>
+    <updated>2023-02-22T16:49:47+00:00</updated>
+    <content>We had to let you see @ashleythejohnson69 and @samriegel practicing Makin' My Way #criticalrole #samriegel #ashleyjohnson #thelegendofvoxmachina #song</content>
+    <link href="https://tiktok.com/@criticalrole/video/7203022813878308139" rel="alternate"/>
+    <published>2023-02-22T16:49:47+00:00</published>
   </entry>
 </feed>
