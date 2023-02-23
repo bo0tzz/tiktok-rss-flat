@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@criticalrole</id>
   <title>criticalrole TikTok</title>
-  <updated>2023-02-22T16:49:47+00:00</updated>
+  <updated>2023-02-23T16:09:32+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://bo0tzz.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from criticalrole</subtitle>
-  <entry>
-    <id>https://tiktok.com/@criticalrole/video/7199715593757707566</id>
-    <title>Closet tour with The Master of Sponsors @samriegel! #criticalrole #improv#samriegel #costumes #ttrpg #scanlanshorthalt</title>
-    <updated>2023-02-13T18:56:51+00:00</updated>
-    <content>Closet tour with The Master of Sponsors @samriegel! #criticalrole #improv#samriegel #costumes #ttrpg #scanlanshorthalt</content>
-    <link href="https://tiktok.com/@criticalrole/video/7199715593757707566" rel="alternate"/>
-    <published>2023-02-13T18:56:51+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@criticalrole/video/7200216201287437611</id>
     <title>Have normal interactions with us at tonight's #TheLegendOfVoxMachina watch party! @matthewmercervo @samriegel #criticalrole #mattmercer#samriegel</title>
@@ -51,5 +43,13 @@
     <content>We had to let you see @ashleythejohnson69 and @samriegel practicing Makin' My Way #criticalrole #samriegel #ashleyjohnson #thelegendofvoxmachina #song</content>
     <link href="https://tiktok.com/@criticalrole/video/7203022813878308139" rel="alternate"/>
     <published>2023-02-22T16:49:47+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@criticalrole/video/7203383716725411118</id>
+    <title>Manifesting high stakes rolls @ashleythejohnson69 #criticalrole #ashleyjohnson #improv #tabletop #ttrpg #dice #diceroll</title>
+    <updated>2023-02-23T16:09:32+00:00</updated>
+    <content>Manifesting high stakes rolls @ashleythejohnson69 #criticalrole #ashleyjohnson #improv #tabletop #ttrpg #dice #diceroll</content>
+    <link href="https://tiktok.com/@criticalrole/video/7203383716725411118" rel="alternate"/>
+    <published>2023-02-23T16:09:32+00:00</published>
   </entry>
 </feed>
