@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@criticalrole</id>
   <title>criticalrole TikTok</title>
-  <updated>2023-02-24T17:31:26+00:00</updated>
+  <updated>2023-02-27T18:09:40+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://bo0tzz.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from criticalrole</subtitle>
-  <entry>
-    <id>https://tiktok.com/@criticalrole/video/7200454612992675114</id>
-    <title>@samriegel's Ginger Snap Rap ft. @willingblam #criticalrole #improv #ttrpg #rpg #rap #tabletop #samriegel #traviswilligham #mattmercer #marisharay</title>
-    <updated>2023-02-15T18:43:47+00:00</updated>
-    <content>@samriegel's Ginger Snap Rap ft. @willingblam #criticalrole #improv #ttrpg #rpg #rap #tabletop #samriegel #traviswilligham #mattmercer #marisharay</content>
-    <link href="https://tiktok.com/@criticalrole/video/7200454612992675114" rel="alternate"/>
-    <published>2023-02-15T18:43:47+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@criticalrole/video/7202644130374126890</id>
     <title>YOU CAN'T PUT THIS ON TIKTOK #criticalrole #tabletop #improv #ttrpg #ttrpgtok #marisharay #traviswilligham #sound  @marisharaygun @willingblam</title>
@@ -51,5 +43,13 @@
     <content>"I feel like I chose the wrong goblet at the end of Last Crusade" - @matthewmercervo #criticalrole #mattmercer #improv #tabletop #ttrpg</content>
     <link href="https://tiktok.com/@criticalrole/video/7203775692176133422" rel="alternate"/>
     <published>2023-02-24T17:31:26+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@criticalrole/video/7204899256170302763</id>
+    <title>We proudly present the footage from @samriegel's Critial Gas Cam flask in Episode 49! #criticalrole #samriegel #improv #ttrpg #tabletop #gopro #humor</title>
+    <updated>2023-02-27T18:09:40+00:00</updated>
+    <content>We proudly present the footage from @samriegel's Critial Gas Cam flask in Episode 49! #criticalrole #samriegel #improv #ttrpg #tabletop #gopro #humor</content>
+    <link href="https://tiktok.com/@criticalrole/video/7204899256170302763" rel="alternate"/>
+    <published>2023-02-27T18:09:40+00:00</published>
   </entry>
 </feed>
