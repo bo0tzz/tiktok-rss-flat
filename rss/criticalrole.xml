@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@criticalrole</id>
   <title>criticalrole TikTok</title>
-  <updated>2023-02-27T18:09:40+00:00</updated>
+  <updated>2023-03-01T16:36:28+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://bo0tzz.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from criticalrole</subtitle>
-  <entry>
-    <id>https://tiktok.com/@criticalrole/video/7202644130374126890</id>
-    <title>YOU CAN'T PUT THIS ON TIKTOK #criticalrole #tabletop #improv #ttrpg #ttrpgtok #marisharay #traviswilligham #sound  @marisharaygun @willingblam</title>
-    <updated>2023-02-21T16:19:34+00:00</updated>
-    <content>YOU CAN'T PUT THIS ON TIKTOK #criticalrole #tabletop #improv #ttrpg #ttrpgtok #marisharay #traviswilligham #sound  @marisharaygun @willingblam</content>
-    <link href="https://tiktok.com/@criticalrole/video/7202644130374126890" rel="alternate"/>
-    <published>2023-02-21T16:19:34+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@criticalrole/video/7203022813878308139</id>
     <title>We had to let you see @ashleythejohnson69 and @samriegel practicing Makin' My Way #criticalrole #samriegel #ashleyjohnson #thelegendofvoxmachina #song</title>
@@ -51,5 +43,13 @@
     <content>We proudly present the footage from @samriegel's Critial Gas Cam flask in Episode 49! #criticalrole #samriegel #improv #ttrpg #tabletop #gopro #humor</content>
     <link href="https://tiktok.com/@criticalrole/video/7204899256170302763" rel="alternate"/>
     <published>2023-02-27T18:09:40+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@criticalrole/video/7205617576121011498</id>
+    <title>What better time than the Apogee Solstice to share @voiceofobrien’s Ruidus dice?? #criticalrole #improv #liamobrien #d20 #ttrpg #dnddice #diceroll #dicecollection </title>
+    <updated>2023-03-01T16:36:28+00:00</updated>
+    <content>What better time than the Apogee Solstice to share @voiceofobrien’s Ruidus dice?? #criticalrole #improv #liamobrien #d20 #ttrpg #dnddice #diceroll #dicecollection </content>
+    <link href="https://tiktok.com/@criticalrole/video/7205617576121011498" rel="alternate"/>
+    <published>2023-03-01T16:36:28+00:00</published>
   </entry>
 </feed>
