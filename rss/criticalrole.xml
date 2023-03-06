@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@criticalrole</id>
   <title>criticalrole TikTok</title>
-  <updated>2023-03-02T17:46:41+00:00</updated>
+  <updated>2023-03-06T15:00:00+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://bo0tzz.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from criticalrole</subtitle>
-  <entry>
-    <id>https://tiktok.com/@criticalrole/video/7203383716725411118</id>
-    <title>Manifesting high stakes rolls @ashleythejohnson69 #criticalrole #ashleyjohnson #improv #tabletop #ttrpg #dice #diceroll</title>
-    <updated>2023-02-23T16:09:32+00:00</updated>
-    <content>Manifesting high stakes rolls @ashleythejohnson69 #criticalrole #ashleyjohnson #improv #tabletop #ttrpg #dice #diceroll</content>
-    <link href="https://tiktok.com/@criticalrole/video/7203383716725411118" rel="alternate"/>
-    <published>2023-02-23T16:09:32+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@criticalrole/video/7203775692176133422</id>
     <title>"I feel like I chose the wrong goblet at the end of Last Crusade" - @matthewmercervo #criticalrole #mattmercer #improv #tabletop #ttrpg</title>
@@ -51,5 +43,13 @@
     <content>Maps Mercer? Is that a good title? Anyway, @matthewmercervo's got some incredible minis to show you! #criticalrole #mattmercer #miniature #ttrpg #mini</content>
     <link href="https://tiktok.com/@criticalrole/video/7206006138578488622" rel="alternate"/>
     <published>2023-03-02T17:46:41+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@criticalrole/video/7207331892222348590</id>
+    <title>Never change, Ashton 💎 🔨#criticalrole #improv #taliesinjaffe #ashleyjohnson #mattmercer #samriegel #traviswillingham #bellshells #ttrpg #tabletop</title>
+    <updated>2023-03-06T15:00:00+00:00</updated>
+    <content>Never change, Ashton 💎 🔨#criticalrole #improv #taliesinjaffe #ashleyjohnson #mattmercer #samriegel #traviswillingham #bellshells #ttrpg #tabletop</content>
+    <link href="https://tiktok.com/@criticalrole/video/7207331892222348590" rel="alternate"/>
+    <published>2023-03-06T15:00:00+00:00</published>
   </entry>
 </feed>
