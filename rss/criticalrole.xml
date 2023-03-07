@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@criticalrole</id>
   <title>criticalrole TikTok</title>
-  <updated>2023-03-06T15:00:00+00:00</updated>
+  <updated>2023-03-07T14:00:00+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://bo0tzz.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from criticalrole</subtitle>
-  <entry>
-    <id>https://tiktok.com/@criticalrole/video/7203775692176133422</id>
-    <title>"I feel like I chose the wrong goblet at the end of Last Crusade" - @matthewmercervo #criticalrole #mattmercer #improv #tabletop #ttrpg</title>
-    <updated>2023-02-24T17:31:26+00:00</updated>
-    <content>"I feel like I chose the wrong goblet at the end of Last Crusade" - @matthewmercervo #criticalrole #mattmercer #improv #tabletop #ttrpg</content>
-    <link href="https://tiktok.com/@criticalrole/video/7203775692176133422" rel="alternate"/>
-    <published>2023-02-24T17:31:26+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@criticalrole/video/7204899256170302763</id>
     <title>We proudly present the footage from @samriegel's Critial Gas Cam flask in Episode 49! #criticalrole #samriegel #improv #ttrpg #tabletop #gopro #humor</title>
@@ -51,5 +43,13 @@
     <content>Never change, Ashton 💎 🔨#criticalrole #improv #taliesinjaffe #ashleyjohnson #mattmercer #samriegel #traviswillingham #bellshells #ttrpg #tabletop</content>
     <link href="https://tiktok.com/@criticalrole/video/7207331892222348590" rel="alternate"/>
     <published>2023-03-06T15:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@criticalrole/video/7207697042985061678</id>
+    <title>Here's a closer look at the armored automaton Bells Hells encountered last week! ⚙️ #criticalrole #improv #minis #ttrpg #tabletop#mattmercer #figurine</title>
+    <updated>2023-03-07T14:00:00+00:00</updated>
+    <content>Here's a closer look at the armored automaton Bells Hells encountered last week! ⚙️ #criticalrole #improv #minis #ttrpg #tabletop#mattmercer #figurine</content>
+    <link href="https://tiktok.com/@criticalrole/video/7207697042985061678" rel="alternate"/>
+    <published>2023-03-07T14:00:00+00:00</published>
   </entry>
 </feed>
