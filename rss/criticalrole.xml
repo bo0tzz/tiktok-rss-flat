@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@criticalrole</id>
   <title>criticalrole TikTok</title>
-  <updated>2023-03-08T14:04:58+00:00</updated>
+  <updated>2023-03-09T17:00:01+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://bo0tzz.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from criticalrole</subtitle>
-  <entry>
-    <id>https://tiktok.com/@criticalrole/video/7205617576121011498</id>
-    <title>What better time than the Apogee Solstice to share @voiceofobrien’s Ruidus dice?? #criticalrole #improv #liamobrien #d20 #ttrpg #dnddice #diceroll #dicecollection </title>
-    <updated>2023-03-01T16:36:28+00:00</updated>
-    <content>What better time than the Apogee Solstice to share @voiceofobrien’s Ruidus dice?? #criticalrole #improv #liamobrien #d20 #ttrpg #dnddice #diceroll #dicecollection </content>
-    <link href="https://tiktok.com/@criticalrole/video/7205617576121011498" rel="alternate"/>
-    <published>2023-03-01T16:36:28+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@criticalrole/video/7206006138578488622</id>
     <title>Maps Mercer? Is that a good title? Anyway, @matthewmercervo's got some incredible minis to show you! #criticalrole #mattmercer #miniature #ttrpg #mini</title>
@@ -51,5 +43,13 @@
     <content>The wonderful cabinet of curiosities that is a Taliesin Jaffe dice tour 🎲 #criticalrole #taliesinjaffe #tabletop #dice #d20 #dnd #dnddice #dicecollection #diceroll #dicetok </content>
     <link href="https://tiktok.com/@criticalrole/video/7208176129587285291" rel="alternate"/>
     <published>2023-03-08T14:04:58+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@criticalrole/video/7208291131304529194</id>
+    <title>Apogee Solstice fit check #criticalrole#dnd#laurabailey #samriegel #mattmercer #traviswillingham #samriegel #ashleyjohnson #marisharay #taliesinjaffe</title>
+    <updated>2023-03-09T17:00:01+00:00</updated>
+    <content>Apogee Solstice fit check #criticalrole#dnd#laurabailey #samriegel #mattmercer #traviswillingham #samriegel #ashleyjohnson #marisharay #taliesinjaffe</content>
+    <link href="https://tiktok.com/@criticalrole/video/7208291131304529194" rel="alternate"/>
+    <published>2023-03-09T17:00:01+00:00</published>
   </entry>
 </feed>
