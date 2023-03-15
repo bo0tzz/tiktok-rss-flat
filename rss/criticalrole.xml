@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@criticalrole</id>
   <title>criticalrole TikTok</title>
-  <updated>2023-03-14T13:00:00+00:00</updated>
+  <updated>2023-03-15T17:51:37+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://bo0tzz.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from criticalrole</subtitle>
-  <entry>
-    <id>https://tiktok.com/@criticalrole/video/7208176129587285291</id>
-    <title>The wonderful cabinet of curiosities that is a Taliesin Jaffe dice tour 🎲 #criticalrole #taliesinjaffe #tabletop #dice #d20 #dnd #dnddice #dicecollection #diceroll #dicetok </title>
-    <updated>2023-03-08T14:04:58+00:00</updated>
-    <content>The wonderful cabinet of curiosities that is a Taliesin Jaffe dice tour 🎲 #criticalrole #taliesinjaffe #tabletop #dice #d20 #dnd #dnddice #dicecollection #diceroll #dicetok </content>
-    <link href="https://tiktok.com/@criticalrole/video/7208176129587285291" rel="alternate"/>
-    <published>2023-03-08T14:04:58+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@criticalrole/video/7208291131304529194</id>
     <title>Apogee Solstice fit check #criticalrole#dnd#laurabailey #samriegel #mattmercer #traviswillingham #samriegel #ashleyjohnson #marisharay #taliesinjaffe</title>
@@ -51,5 +43,13 @@
     <content>OooOOOoo #criticalrole #marisharay #samriegel #keyleth #scanlanshorthalt #laudna #freshcutgrass #beauregardlionett #vethbrenatto #dnd #dndtok #improv</content>
     <link href="https://tiktok.com/@criticalrole/video/7210295143205817643" rel="alternate"/>
     <published>2023-03-14T13:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@criticalrole/video/7210832142216039726</id>
+    <title>NERD STUFF #criticalrole #mattmercer #samriegel #dnd #dungeonsanddragons #dndminiatures #miniature #dndminis #ttrpg #tabletopgaming #tabletop </title>
+    <updated>2023-03-15T17:51:37+00:00</updated>
+    <content>NERD STUFF #criticalrole #mattmercer #samriegel #dnd #dungeonsanddragons #dndminiatures #miniature #dndminis #ttrpg #tabletopgaming #tabletop </content>
+    <link href="https://tiktok.com/@criticalrole/video/7210832142216039726" rel="alternate"/>
+    <published>2023-03-15T17:51:37+00:00</published>
   </entry>
 </feed>
