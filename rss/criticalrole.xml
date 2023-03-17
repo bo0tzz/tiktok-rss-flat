@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@criticalrole</id>
   <title>criticalrole TikTok</title>
-  <updated>2023-03-17T16:50:37+00:00</updated>
+  <updated>2023-03-17T19:33:16+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://bo0tzz.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from criticalrole</subtitle>
-  <entry>
-    <id>https://tiktok.com/@criticalrole/video/7210099487438572846</id>
-    <title>This moment 🗡️🗡️🪶#criticalrole #mattmercer #traviswillingham #marisharay #laurabailey #samriegel #taliesinjaffe #ashleyjohnson #liamobrien #dnd #tabletop #improv #dnd5e #bellshells #voxmachina </title>
-    <updated>2023-03-13T18:28:42+00:00</updated>
-    <content>This moment 🗡️🗡️🪶#criticalrole #mattmercer #traviswillingham #marisharay #laurabailey #samriegel #taliesinjaffe #ashleyjohnson #liamobrien #dnd #tabletop #improv #dnd5e #bellshells #voxmachina </content>
-    <link href="https://tiktok.com/@criticalrole/video/7210099487438572846" rel="alternate"/>
-    <published>2023-03-13T18:28:42+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@criticalrole/video/7210295143205817643</id>
     <title>OooOOOoo #criticalrole #marisharay #samriegel #keyleth #scanlanshorthalt #laudna #freshcutgrass #beauregardlionett #vethbrenatto #dnd #dndtok #improv</title>
@@ -51,5 +43,13 @@
     <content>Whats eight years of Critical Role like you ask? #critcalrole #improv #samriegel #traviswilligham #thelegendofvoxmachina #bellshells #dnd #dndmeme #dungeonsanddragons #sorrytravis </content>
     <link href="https://tiktok.com/@criticalrole/video/7211558584033758507" rel="alternate"/>
     <published>2023-03-17T16:50:37+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@criticalrole/video/7211600499408178475</id>
+    <title>Check out the Malleus Key map with @matthewmercervo! #criticalrole #mattmercer #dnd #dungeonsanddragons #dndminiatures #mini #miniatures #tabletop #ttrpg #tabletopminiatures </title>
+    <updated>2023-03-17T19:33:16+00:00</updated>
+    <content>Check out the Malleus Key map with @matthewmercervo! #criticalrole #mattmercer #dnd #dungeonsanddragons #dndminiatures #mini #miniatures #tabletop #ttrpg #tabletopminiatures </content>
+    <link href="https://tiktok.com/@criticalrole/video/7211600499408178475" rel="alternate"/>
+    <published>2023-03-17T19:33:16+00:00</published>
   </entry>
 </feed>
