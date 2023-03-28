@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@criticalrole</id>
   <title>criticalrole TikTok</title>
-  <updated>2023-03-27T18:56:47+00:00</updated>
+  <updated>2023-03-28T17:29:27+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://bo0tzz.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from criticalrole</subtitle>
-  <entry>
-    <id>https://tiktok.com/@criticalrole/video/7213018537978367278</id>
-    <title>To exes and aeormatons! 🍺 #criticalrole #mattmercer #ashleyjohnson #traviswillingham #laurabailey #samriegel #aabriaiyengar #christiannavarro #dnd</title>
-    <updated>2023-03-21T15:18:21+00:00</updated>
-    <content>To exes and aeormatons! 🍺 #criticalrole #mattmercer #ashleyjohnson #traviswillingham #laurabailey #samriegel #aabriaiyengar #christiannavarro #dnd</content>
-    <link href="https://tiktok.com/@criticalrole/video/7213018537978367278" rel="alternate"/>
-    <published>2023-03-21T15:18:21+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@criticalrole/video/7213404464756149547</id>
     <title>Moppo fancam baby!! #criticalrole #improv #4sideddive #ashleyjohnson #taliesinjaffe #liamobrien #marisharay #dnd #dndtiktok #puppets #mop #moppo</title>
@@ -51,5 +43,13 @@
     <content>Checking in with Chetney Pock O'Pea! #criticalrole #traviswillingham #chetneypockopea #bellshells #dnd #tabletop #roleplay  #criticalrolecampaign3 #voiceactor #voiceacting </content>
     <link href="https://tiktok.com/@criticalrole/video/7215301960763854123" rel="alternate"/>
     <published>2023-03-27T18:56:47+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@criticalrole/video/7215650520256548142</id>
+    <title>Wow ok #criticalrole #aabriaiyengar #christiannavarro #mattmercer #traviswillingham #laurabailey #ashleyjohnson #samriegel #bellshells #criticalrolecampaign3 #dnd #dnd5e #tabletop #ropleplay </title>
+    <updated>2023-03-28T17:29:27+00:00</updated>
+    <content>Wow ok #criticalrole #aabriaiyengar #christiannavarro #mattmercer #traviswillingham #laurabailey #ashleyjohnson #samriegel #bellshells #criticalrolecampaign3 #dnd #dnd5e #tabletop #ropleplay </content>
+    <link href="https://tiktok.com/@criticalrole/video/7215650520256548142" rel="alternate"/>
+    <published>2023-03-28T17:29:27+00:00</published>
   </entry>
 </feed>
