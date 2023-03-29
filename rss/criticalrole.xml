@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@criticalrole</id>
   <title>criticalrole TikTok</title>
-  <updated>2023-03-28T19:38:43+00:00</updated>
+  <updated>2023-03-29T19:52:15+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://bo0tzz.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from criticalrole</subtitle>
-  <entry>
-    <id>https://tiktok.com/@criticalrole/video/7213481949199879470</id>
-    <title>Omar has gifted you...a 9! #criticalrole #d20 #dnd #dndtok #dndmeme#corgi #corgisoftiktok #diceroll #traviswillingham #marisharay #laurabailey #dice</title>
-    <updated>2023-03-23T16:00:00+00:00</updated>
-    <content>Omar has gifted you...a 9! #criticalrole #d20 #dnd #dndtok #dndmeme#corgi #corgisoftiktok #diceroll #traviswillingham #marisharay #laurabailey #dice</content>
-    <link href="https://tiktok.com/@criticalrole/video/7213481949199879470" rel="alternate"/>
-    <published>2023-03-23T16:00:00+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@criticalrole/video/7213520836907535658</id>
     <title>@matthewmercervo takes you through his build of Episode 52's snowy map! #criticalrole #mattmercer #dnd #mini #miniature #ttrpg #tabletop #ttrpgmap</title>
@@ -51,5 +43,13 @@
     <content>Get tickets now at dungeonsanddragons.movie! #criticalrole #dungeonsanddragons #dnd #dndmovie #dungeonsanddragonshonoramongthieves #samriegel #paramountpartner </content>
     <link href="https://tiktok.com/@criticalrole/video/7215683826046127406" rel="alternate"/>
     <published>2023-03-28T19:38:43+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@criticalrole/video/7216058422700035371</id>
+    <title>The moment of completion from our last cozy 🧩 stream! #criticalrole #marisharay #themightynein #jesterlavorre #calebwidogast #vethbrenatto #yashanydoorin #fjordstone #beauregardlionett #caduceusclay #mollymaukteleaf  #dnd #tabletop #roleplay #puzzle #puzz</title>
+    <updated>2023-03-29T19:52:15+00:00</updated>
+    <content>The moment of completion from our last cozy 🧩 stream! #criticalrole #marisharay #themightynein #jesterlavorre #calebwidogast #vethbrenatto #yashanydoorin #fjordstone #beauregardlionett #caduceusclay #mollymaukteleaf  #dnd #tabletop #roleplay #puzzle #puzzles </content>
+    <link href="https://tiktok.com/@criticalrole/video/7216058422700035371" rel="alternate"/>
+    <published>2023-03-29T19:52:15+00:00</published>
   </entry>
 </feed>
