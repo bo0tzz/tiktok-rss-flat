@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@criticalrole</id>
   <title>criticalrole TikTok</title>
-  <updated>2023-03-30T18:20:05+00:00</updated>
+  <updated>2023-03-31T17:43:25+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://bo0tzz.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from criticalrole</subtitle>
-  <entry>
-    <id>https://tiktok.com/@criticalrole/video/7215301960763854123</id>
-    <title>Checking in with Chetney Pock O'Pea! #criticalrole #traviswillingham #chetneypockopea #bellshells #dnd #tabletop #roleplay  #criticalrolecampaign3 #voiceactor #voiceacting </title>
-    <updated>2023-03-27T18:56:47+00:00</updated>
-    <content>Checking in with Chetney Pock O'Pea! #criticalrole #traviswillingham #chetneypockopea #bellshells #dnd #tabletop #roleplay  #criticalrolecampaign3 #voiceactor #voiceacting </content>
-    <link href="https://tiktok.com/@criticalrole/video/7215301960763854123" rel="alternate"/>
-    <published>2023-03-27T18:56:47+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@criticalrole/video/7215650520256548142</id>
     <title>Wow ok #criticalrole #aabriaiyengar #christiannavarro #mattmercer #traviswillingham #laurabailey #ashleyjohnson #samriegel #bellshells #criticalrolecampaign3 #dnd #dnd5e #tabletop #ropleplay </title>
@@ -51,5 +43,13 @@
     <content>You can tell it’s Marisha’s desk #criticalrole #improv #mattmercer #samriegel #marisharay #dndtiktok #dndtok #criticalrolememes #dnd #tabletop #roleplayer #</content>
     <link href="https://tiktok.com/@criticalrole/video/7216405713294200107" rel="alternate"/>
     <published>2023-03-30T18:20:05+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@criticalrole/video/7216767390426729770</id>
+    <title>Check out the Umadara battle map with @matthewmercervo! #criticalrole #mattmercer #dungeonmaster #dnd #dndtiktok #dungeonsanddragons #tabletop #mini #miniature #handmade #dndminiatures #ttrpg </title>
+    <updated>2023-03-31T17:43:25+00:00</updated>
+    <content>Check out the Umadara battle map with @matthewmercervo! #criticalrole #mattmercer #dungeonmaster #dnd #dndtiktok #dungeonsanddragons #tabletop #mini #miniature #handmade #dndminiatures #ttrpg </content>
+    <link href="https://tiktok.com/@criticalrole/video/7216767390426729770" rel="alternate"/>
+    <published>2023-03-31T17:43:25+00:00</published>
   </entry>
 </feed>
