@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@criticalrole</id>
   <title>criticalrole TikTok</title>
-  <updated>2023-03-31T17:43:25+00:00</updated>
+  <updated>2023-04-03T18:48:42+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://bo0tzz.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from criticalrole</subtitle>
-  <entry>
-    <id>https://tiktok.com/@criticalrole/video/7215650520256548142</id>
-    <title>Wow ok #criticalrole #aabriaiyengar #christiannavarro #mattmercer #traviswillingham #laurabailey #ashleyjohnson #samriegel #bellshells #criticalrolecampaign3 #dnd #dnd5e #tabletop #ropleplay </title>
-    <updated>2023-03-28T17:29:27+00:00</updated>
-    <content>Wow ok #criticalrole #aabriaiyengar #christiannavarro #mattmercer #traviswillingham #laurabailey #ashleyjohnson #samriegel #bellshells #criticalrolecampaign3 #dnd #dnd5e #tabletop #ropleplay </content>
-    <link href="https://tiktok.com/@criticalrole/video/7215650520256548142" rel="alternate"/>
-    <published>2023-03-28T17:29:27+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@criticalrole/video/7215683826046127406</id>
     <title>Get tickets now at dungeonsanddragons.movie! #criticalrole #dungeonsanddragons #dnd #dndmovie #dungeonsanddragonshonoramongthieves #samriegel #paramountpartner </title>
@@ -51,5 +43,13 @@
     <content>Check out the Umadara battle map with @matthewmercervo! #criticalrole #mattmercer #dungeonmaster #dnd #dndtiktok #dungeonsanddragons #tabletop #mini #miniature #handmade #dndminiatures #ttrpg </content>
     <link href="https://tiktok.com/@criticalrole/video/7216767390426729770" rel="alternate"/>
     <published>2023-03-31T17:43:25+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@criticalrole/video/7217897437128723758</id>
+    <title>Where are you on Fresh Cut Grass’ emotions wheel today? #criticalrole #freshcutgrass #bellshells #criticalrolecampaign3 #samriegel #roleplay #tabletop #dnd #dndtok #feelings #fcg </title>
+    <updated>2023-04-03T18:48:42+00:00</updated>
+    <content>Where are you on Fresh Cut Grass’ emotions wheel today? #criticalrole #freshcutgrass #bellshells #criticalrolecampaign3 #samriegel #roleplay #tabletop #dnd #dndtok #feelings #fcg </content>
+    <link href="https://tiktok.com/@criticalrole/video/7217897437128723758" rel="alternate"/>
+    <published>2023-04-03T18:48:42+00:00</published>
   </entry>
 </feed>
