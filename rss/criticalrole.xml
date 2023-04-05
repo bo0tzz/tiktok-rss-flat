@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@criticalrole</id>
   <title>criticalrole TikTok</title>
-  <updated>2023-04-04T16:08:41+00:00</updated>
+  <updated>2023-04-05T17:58:10+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://bo0tzz.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from criticalrole</subtitle>
-  <entry>
-    <id>https://tiktok.com/@criticalrole/video/7216058422700035371</id>
-    <title>The moment of completion from our last cozy 🧩 stream! #criticalrole #marisharay #themightynein #jesterlavorre #calebwidogast #vethbrenatto #yashanydoorin #fjordstone #beauregardlionett #caduceusclay #mollymaukteleaf  #dnd #tabletop #roleplay #puzzle #puzz</title>
-    <updated>2023-03-29T19:52:15+00:00</updated>
-    <content>The moment of completion from our last cozy 🧩 stream! #criticalrole #marisharay #themightynein #jesterlavorre #calebwidogast #vethbrenatto #yashanydoorin #fjordstone #beauregardlionett #caduceusclay #mollymaukteleaf  #dnd #tabletop #roleplay #puzzle #puzzles </content>
-    <link href="https://tiktok.com/@criticalrole/video/7216058422700035371" rel="alternate"/>
-    <published>2023-03-29T19:52:15+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@criticalrole/video/7216405713294200107</id>
     <title>You can tell it’s Marisha’s desk #criticalrole #improv #mattmercer #samriegel #marisharay #dndtiktok #dndtok #criticalrolememes #dnd #tabletop #roleplayer #</title>
@@ -51,5 +43,13 @@
     <content>Dont startle him, he’ll add an extra encounter! #criticalrole #mattmercer #samriegel  #dungeonsanddragons #dnd #dndtiktok #dm #gamemaster #dndmap #miniature #mini #ttrpg #tabletop #roleplayinggame #voiceactor </content>
     <link href="https://tiktok.com/@criticalrole/video/7218227310464486699" rel="alternate"/>
     <published>2023-04-04T16:08:41+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@criticalrole/video/7218626564140076334</id>
+    <title>The TOUGHEST @marisharaygun  #criticalrole #marisharay #keyleth #laudnacriticalrole #bellshells #voxmachina #voiceactor #improv #tabletop #ttrpg #dnd #dndtok #dungeonsanddragons #creatorclash </title>
+    <updated>2023-04-05T17:58:10+00:00</updated>
+    <content>The TOUGHEST @marisharaygun  #criticalrole #marisharay #keyleth #laudnacriticalrole #bellshells #voxmachina #voiceactor #improv #tabletop #ttrpg #dnd #dndtok #dungeonsanddragons #creatorclash </content>
+    <link href="https://tiktok.com/@criticalrole/video/7218626564140076334" rel="alternate"/>
+    <published>2023-04-05T17:58:10+00:00</published>
   </entry>
 </feed>
