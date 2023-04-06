@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@criticalrole</id>
   <title>criticalrole TikTok</title>
-  <updated>2023-04-05T17:58:10+00:00</updated>
+  <updated>2023-04-06T17:28:11+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://bo0tzz.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from criticalrole</subtitle>
-  <entry>
-    <id>https://tiktok.com/@criticalrole/video/7216405713294200107</id>
-    <title>You can tell it’s Marisha’s desk #criticalrole #improv #mattmercer #samriegel #marisharay #dndtiktok #dndtok #criticalrolememes #dnd #tabletop #roleplayer #</title>
-    <updated>2023-03-30T18:20:05+00:00</updated>
-    <content>You can tell it’s Marisha’s desk #criticalrole #improv #mattmercer #samriegel #marisharay #dndtiktok #dndtok #criticalrolememes #dnd #tabletop #roleplayer #</content>
-    <link href="https://tiktok.com/@criticalrole/video/7216405713294200107" rel="alternate"/>
-    <published>2023-03-30T18:20:05+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@criticalrole/video/7216767390426729770</id>
     <title>Check out the Umadara battle map with @matthewmercervo! #criticalrole #mattmercer #dungeonmaster #dnd #dndtiktok #dungeonsanddragons #tabletop #mini #miniature #handmade #dndminiatures #ttrpg </title>
@@ -51,5 +43,13 @@
     <content>The TOUGHEST @marisharaygun  #criticalrole #marisharay #keyleth #laudnacriticalrole #bellshells #voxmachina #voiceactor #improv #tabletop #ttrpg #dnd #dndtok #dungeonsanddragons #creatorclash </content>
     <link href="https://tiktok.com/@criticalrole/video/7218626564140076334" rel="alternate"/>
     <published>2023-04-05T17:58:10+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@criticalrole/video/7218989921871121710</id>
+    <title>Ready for tonight’s episode? 🚨#criticalrole #samriegel #mattmercer #aabriaiyengar #christiannavarro #bellshells #criticalrolecampaign3 #improv #dungeonsanddragons #dndtiktok #dnd #dnd5e #tour #behindthescenes #voiceactor</title>
+    <updated>2023-04-06T17:28:11+00:00</updated>
+    <content>Ready for tonight’s episode? 🚨#criticalrole #samriegel #mattmercer #aabriaiyengar #christiannavarro #bellshells #criticalrolecampaign3 #improv #dungeonsanddragons #dndtiktok #dnd #dnd5e #tour #behindthescenes #voiceactor</content>
+    <link href="https://tiktok.com/@criticalrole/video/7218989921871121710" rel="alternate"/>
+    <published>2023-04-06T17:28:11+00:00</published>
   </entry>
 </feed>
