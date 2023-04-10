@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@criticalrole</id>
   <title>criticalrole TikTok</title>
-  <updated>2023-04-07T17:38:45+00:00</updated>
+  <updated>2023-04-10T20:11:36+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://bo0tzz.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from criticalrole</subtitle>
-  <entry>
-    <id>https://tiktok.com/@criticalrole/video/7217897437128723758</id>
-    <title>Where are you on Fresh Cut Grass’ emotions wheel today? #criticalrole #freshcutgrass #bellshells #criticalrolecampaign3 #samriegel #roleplay #tabletop #dnd #dndtok #feelings #fcg </title>
-    <updated>2023-04-03T18:48:42+00:00</updated>
-    <content>Where are you on Fresh Cut Grass’ emotions wheel today? #criticalrole #freshcutgrass #bellshells #criticalrolecampaign3 #samriegel #roleplay #tabletop #dnd #dndtok #feelings #fcg </content>
-    <link href="https://tiktok.com/@criticalrole/video/7217897437128723758" rel="alternate"/>
-    <published>2023-04-03T18:48:42+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@criticalrole/video/7218227310464486699</id>
     <title>Dont startle him, he’ll add an extra encounter! #criticalrole #mattmercer #samriegel  #dungeonsanddragons #dnd #dndtiktok #dm #gamemaster #dndmap #miniature #mini #ttrpg #tabletop #roleplayinggame #voiceactor </title>
@@ -51,5 +43,13 @@
     <content>Performance check #ashleyjohnson #mattmercer #laurabailey #samriegel #criticalrole #voiceactor #voiceacting #improv #dance #dancing #behindthescenes #bellshells #thelastofus </content>
     <link href="https://tiktok.com/@criticalrole/video/7219363790532431146" rel="alternate"/>
     <published>2023-04-07T17:38:45+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@criticalrole/video/7220516396940234026</id>
+    <title>Censored for TikTok #criticalrole #ashleyjohnson #mattmercer #samriegel #traviswillingham #aabriaiyengar #christiannavarro #bellshells #dnd #dungeonsanddragons #dnd5e #voiceactor #voiceacting #thelastofus #freshcutgrass </title>
+    <updated>2023-04-10T20:11:36+00:00</updated>
+    <content>Censored for TikTok #criticalrole #ashleyjohnson #mattmercer #samriegel #traviswillingham #aabriaiyengar #christiannavarro #bellshells #dnd #dungeonsanddragons #dnd5e #voiceactor #voiceacting #thelastofus #freshcutgrass </content>
+    <link href="https://tiktok.com/@criticalrole/video/7220516396940234026" rel="alternate"/>
+    <published>2023-04-10T20:11:36+00:00</published>
   </entry>
 </feed>
