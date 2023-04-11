@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@criticalrole</id>
   <title>criticalrole TikTok</title>
-  <updated>2023-04-10T20:11:36+00:00</updated>
+  <updated>2023-04-11T16:53:51+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://bo0tzz.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from criticalrole</subtitle>
-  <entry>
-    <id>https://tiktok.com/@criticalrole/video/7218227310464486699</id>
-    <title>Dont startle him, he’ll add an extra encounter! #criticalrole #mattmercer #samriegel  #dungeonsanddragons #dnd #dndtiktok #dm #gamemaster #dndmap #miniature #mini #ttrpg #tabletop #roleplayinggame #voiceactor </title>
-    <updated>2023-04-04T16:08:41+00:00</updated>
-    <content>Dont startle him, he’ll add an extra encounter! #criticalrole #mattmercer #samriegel  #dungeonsanddragons #dnd #dndtiktok #dm #gamemaster #dndmap #miniature #mini #ttrpg #tabletop #roleplayinggame #voiceactor </content>
-    <link href="https://tiktok.com/@criticalrole/video/7218227310464486699" rel="alternate"/>
-    <published>2023-04-04T16:08:41+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@criticalrole/video/7218626564140076334</id>
     <title>The TOUGHEST @marisharaygun  #criticalrole #marisharay #keyleth #laudnacriticalrole #bellshells #voxmachina #voiceactor #improv #tabletop #ttrpg #dnd #dndtok #dungeonsanddragons #creatorclash </title>
@@ -51,5 +43,13 @@
     <content>Censored for TikTok #criticalrole #ashleyjohnson #mattmercer #samriegel #traviswillingham #aabriaiyengar #christiannavarro #bellshells #dnd #dungeonsanddragons #dnd5e #voiceactor #voiceacting #thelastofus #freshcutgrass </content>
     <link href="https://tiktok.com/@criticalrole/video/7220516396940234026" rel="alternate"/>
     <published>2023-04-10T20:11:36+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@criticalrole/video/7220836501800635691</id>
+    <title>🤢🤢🤢 #criticalrole #aabriaiyengar #traviswilligham #mattmercer #samriegel #improv #roleplayer #tabletop #ttrpg #dimension20 #streamer #dnd #dnd5e #dndtiktok #dungeonsanddragons #werthersoriginal </title>
+    <updated>2023-04-11T16:53:51+00:00</updated>
+    <content>🤢🤢🤢 #criticalrole #aabriaiyengar #traviswilligham #mattmercer #samriegel #improv #roleplayer #tabletop #ttrpg #dimension20 #streamer #dnd #dnd5e #dndtiktok #dungeonsanddragons #werthersoriginal </content>
+    <link href="https://tiktok.com/@criticalrole/video/7220836501800635691" rel="alternate"/>
+    <published>2023-04-11T16:53:51+00:00</published>
   </entry>
 </feed>
