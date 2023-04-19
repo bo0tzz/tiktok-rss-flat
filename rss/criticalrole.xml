@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@criticalrole</id>
   <title>criticalrole TikTok</title>
-  <updated>2023-04-18T20:28:04+00:00</updated>
+  <updated>2023-04-19T16:18:48+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://bo0tzz.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from criticalrole</subtitle>
-  <entry>
-    <id>https://tiktok.com/@criticalrole/video/7220836501800635691</id>
-    <title>🤢🤢🤢 #criticalrole #aabriaiyengar #traviswilligham #mattmercer #samriegel #improv #roleplayer #tabletop #ttrpg #dimension20 #streamer #dnd #dnd5e #dndtiktok #dungeonsanddragons #werthersoriginal </title>
-    <updated>2023-04-11T16:53:51+00:00</updated>
-    <content>🤢🤢🤢 #criticalrole #aabriaiyengar #traviswilligham #mattmercer #samriegel #improv #roleplayer #tabletop #ttrpg #dimension20 #streamer #dnd #dnd5e #dndtiktok #dungeonsanddragons #werthersoriginal </content>
-    <link href="https://tiktok.com/@criticalrole/video/7220836501800635691" rel="alternate"/>
-    <published>2023-04-11T16:53:51+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@criticalrole/video/7221236502322269483</id>
     <title>FASHION ✨ #criticalrole #mattmercer #ashleyjohnson #marisharay #taliesinjaffe #traviswillingham #laurabailey #liamobrien #aabriaiyengar #christiannavarro #voiceactor #voiceacting #thelastofus #dimension20 #bellshells #fashion #fashiontiktok </title>
@@ -51,5 +43,13 @@
     <content>👁️👁️ #criticalrole #samriegel #marisharay #bellshells #freshcutgrass #laudnacriticalrole #improv #comedy #voiceactor #voiceacting #googlyeyes #dnd #dungeonsanddragons #criticalrolecampaign3 #ttrpg #roleplayer </content>
     <link href="https://tiktok.com/@criticalrole/video/7223489333733444907" rel="alternate"/>
     <published>2023-04-18T20:28:04+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@criticalrole/video/7223796080301919530</id>
+    <title>Make sure to get FCG’s good side! #criticalrole #christiannavarro #mattmercer #aabriaiyengar #laurabailey #traviswilligham #ashleyjohnson #dnd #dungeonsanddragons #ttrpg #improv #roleplaying #tabletopgaming #voiceactor #voiceacting #freshcutgrass #frida #</title>
+    <updated>2023-04-19T16:18:48+00:00</updated>
+    <content>Make sure to get FCG’s good side! #criticalrole #christiannavarro #mattmercer #aabriaiyengar #laurabailey #traviswilligham #ashleyjohnson #dnd #dungeonsanddragons #ttrpg #improv #roleplaying #tabletopgaming #voiceactor #voiceacting #freshcutgrass #frida #robot </content>
+    <link href="https://tiktok.com/@criticalrole/video/7223796080301919530" rel="alternate"/>
+    <published>2023-04-19T16:18:48+00:00</published>
   </entry>
 </feed>
