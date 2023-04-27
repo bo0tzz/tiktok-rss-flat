@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@criticalrole</id>
   <title>criticalrole TikTok</title>
-  <updated>2023-04-26T17:05:00+00:00</updated>
+  <updated>2023-04-27T16:22:32+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://bo0tzz.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from criticalrole</subtitle>
-  <entry>
-    <id>https://tiktok.com/@criticalrole/video/7224175601454730542</id>
-    <title>Ready for more Applebee’s SoulCycle tonight? #criticalrole #aabriaiyengar #matthewmercer #mattmercer #traviswillingham #christiannavarro #laurabailey #dungeonmaster #bellshells #ttrpg #dnd #dungeonsanddragons #roleplaying </title>
-    <updated>2023-04-20T16:51:05+00:00</updated>
-    <content>Ready for more Applebee’s SoulCycle tonight? #criticalrole #aabriaiyengar #matthewmercer #mattmercer #traviswillingham #christiannavarro #laurabailey #dungeonmaster #bellshells #ttrpg #dnd #dungeonsanddragons #roleplaying </content>
-    <link href="https://tiktok.com/@criticalrole/video/7224175601454730542" rel="alternate"/>
-    <published>2023-04-20T16:51:05+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@criticalrole/video/7224589299197578542</id>
     <title>It’s time for another episode of Maps Mercer! #criticalrole #matthewmercer #mattmercer #dnd #dungeonsanddragons #ttrpg #tabletop #dndminiatures #dndminis #dndtok #bellshells #miniaturebuilding #dndmaps #dndsetup </title>
@@ -51,5 +43,13 @@
     <content>Alright who gave Chetney spices? 🌶️#criticalrole #traviswillingham #samriegel #chetneypockopea #freshcutgrass #voiceactor #voiceacting #improv #bellshells #spicy #spicyfood #spicynoodles #foodreaction #voxmachina #scanlanshorthalt #grogstrongjaw </content>
     <link href="https://tiktok.com/@criticalrole/video/7226405702829493550" rel="alternate"/>
     <published>2023-04-26T17:05:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@criticalrole/video/7226765836726308138</id>
+    <title>Whatever floats your 🐐! #criticalrole #samriegel #mattmercer #ashleyjohnson #traviswillingham #voiceactor #voiceacting #dnd #dungeonsanddragons #dndtok #bellshells #freshcutgrass #chetneypockopea #fearnecalloway #improv #tabletop </title>
+    <updated>2023-04-27T16:22:32+00:00</updated>
+    <content>Whatever floats your 🐐! #criticalrole #samriegel #mattmercer #ashleyjohnson #traviswillingham #voiceactor #voiceacting #dnd #dungeonsanddragons #dndtok #bellshells #freshcutgrass #chetneypockopea #fearnecalloway #improv #tabletop </content>
+    <link href="https://tiktok.com/@criticalrole/video/7226765836726308138" rel="alternate"/>
+    <published>2023-04-27T16:22:32+00:00</published>
   </entry>
 </feed>
