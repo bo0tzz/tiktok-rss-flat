@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@criticalrole</id>
   <title>criticalrole TikTok</title>
-  <updated>2023-04-28T17:15:05+00:00</updated>
+  <updated>2023-05-01T18:13:01+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://bo0tzz.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from criticalrole</subtitle>
-  <entry>
-    <id>https://tiktok.com/@criticalrole/video/7225678868403817771</id>
-    <title>What’s the most Nat 1s you’ve rolled in a game? #criticalrole #laurabailey #mattmercer #ashleyjohnson #traviswillingham #aabriaiyengar #christiannavarro #samriegel #voiceacting #voiceactor #dnd #dndtok #dungeonsanddragons #thelastofus #dnddice #diceroll #</title>
-    <updated>2023-04-24T18:04:45+00:00</updated>
-    <content>What’s the most Nat 1s you’ve rolled in a game? #criticalrole #laurabailey #mattmercer #ashleyjohnson #traviswillingham #aabriaiyengar #christiannavarro #samriegel #voiceacting #voiceactor #dnd #dndtok #dungeonsanddragons #thelastofus #dnddice #diceroll #natural1 </content>
-    <link href="https://tiktok.com/@criticalrole/video/7225678868403817771" rel="alternate"/>
-    <published>2023-04-24T18:04:45+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@criticalrole/video/7226067090078240043</id>
     <title>How do you make your 🍜? #criticalrole #ashleyjohnson #laurabailey #ashleyjohnsonedit #laurabaileyedit #improv #voiceactor #voiceactors #ramen #noodles #bellshells #fearnecalloway #imogentemult  #thelastofus </title>
@@ -51,5 +43,13 @@
     <content>Hey wake up, there’s a new Maps Mercer episode! #criticalrole #mattmercer #mattmerceredit #dnd #dndtok #dungeonsanddragons #mini #miniature #tabeltopgaming #tabletop #ttrpg #minimap #battlemap #dndminiatures #dndminis #diy #maker </content>
     <link href="https://tiktok.com/@criticalrole/video/7227150430776708395" rel="alternate"/>
     <published>2023-04-28T17:15:05+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@criticalrole/video/7228278594231979306</id>
+    <title>Ready to roll this week? #criticalrole #samriegel #samriegeledit #ashleyjohnson #ashleyjohnsonedit #dnd #dndtok #improv #voiceator #voiceacting #dungeonsanddragons #bellshells #criticalrolecampaign3 #thelastofus #roleplay </title>
+    <updated>2023-05-01T18:13:01+00:00</updated>
+    <content>Ready to roll this week? #criticalrole #samriegel #samriegeledit #ashleyjohnson #ashleyjohnsonedit #dnd #dndtok #improv #voiceator #voiceacting #dungeonsanddragons #bellshells #criticalrolecampaign3 #thelastofus #roleplay </content>
+    <link href="https://tiktok.com/@criticalrole/video/7228278594231979306" rel="alternate"/>
+    <published>2023-05-01T18:13:01+00:00</published>
   </entry>
 </feed>
