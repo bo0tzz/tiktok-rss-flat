@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@criticalrole</id>
   <title>criticalrole TikTok</title>
-  <updated>2023-05-04T18:51:19+00:00</updated>
+  <updated>2023-05-05T17:53:05+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://bo0tzz.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from criticalrole</subtitle>
-  <entry>
-    <id>https://tiktok.com/@criticalrole/video/7226765836726308138</id>
-    <title>Whatever floats your 🐐! #criticalrole #samriegel #mattmercer #ashleyjohnson #traviswillingham #voiceactor #voiceacting #dnd #dungeonsanddragons #dndtok #bellshells #freshcutgrass #chetneypockopea #fearnecalloway #improv #tabletop </title>
-    <updated>2023-04-27T16:22:32+00:00</updated>
-    <content>Whatever floats your 🐐! #criticalrole #samriegel #mattmercer #ashleyjohnson #traviswillingham #voiceactor #voiceacting #dnd #dungeonsanddragons #dndtok #bellshells #freshcutgrass #chetneypockopea #fearnecalloway #improv #tabletop </content>
-    <link href="https://tiktok.com/@criticalrole/video/7226765836726308138" rel="alternate"/>
-    <published>2023-04-27T16:22:32+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@criticalrole/video/7227150430776708395</id>
     <title>Hey wake up, there’s a new Maps Mercer episode! #criticalrole #mattmercer #mattmerceredit #dnd #dndtok #dungeonsanddragons #mini #miniature #tabeltopgaming #tabletop #ttrpg #minimap #battlemap #dndminiatures #dndminis #diy #maker </title>
@@ -51,5 +43,13 @@
     <content>See you on set tonight! #criticalrole #samriegel #samriegeledit #bellshells #freshcutgrass #scanlanshorthalt #vethbrenatto #voxmachina #thelegendofvoxmachina #voiceactor #voiceacting #dnd #dndtok #dungeonsanddragons #roleplayer #ttrpg </content>
     <link href="https://tiktok.com/@criticalrole/video/7229401727223745838" rel="alternate"/>
     <published>2023-05-04T18:51:19+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@criticalrole/video/7229757855509908782</id>
+    <title>Molaesmyr meta anyone? #criticalrole #mattmercer #matthewmercer #traviswillingham #aabriaiyengar #samriegel #ashleyjohnson #laurabailey #dnd #dndtok #trrpg #roleplayer #bellshells #dungeonsanddragons #tabletop #lore #criticalrolecampaign3 </title>
+    <updated>2023-05-05T17:53:05+00:00</updated>
+    <content>Molaesmyr meta anyone? #criticalrole #mattmercer #matthewmercer #traviswillingham #aabriaiyengar #samriegel #ashleyjohnson #laurabailey #dnd #dndtok #trrpg #roleplayer #bellshells #dungeonsanddragons #tabletop #lore #criticalrolecampaign3 </content>
+    <link href="https://tiktok.com/@criticalrole/video/7229757855509908782" rel="alternate"/>
+    <published>2023-05-05T17:53:05+00:00</published>
   </entry>
 </feed>
