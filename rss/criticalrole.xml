@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@criticalrole</id>
   <title>criticalrole TikTok</title>
-  <updated>2023-05-08T19:23:28+00:00</updated>
+  <updated>2023-05-09T16:02:54+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://bo0tzz.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from criticalrole</subtitle>
-  <entry>
-    <id>https://tiktok.com/@criticalrole/video/7228278594231979306</id>
-    <title>Ready to roll this week? #criticalrole #samriegel #samriegeledit #ashleyjohnson #ashleyjohnsonedit #dnd #dndtok #improv #voiceator #voiceacting #dungeonsanddragons #bellshells #criticalrolecampaign3 #thelastofus #roleplay </title>
-    <updated>2023-05-01T18:13:01+00:00</updated>
-    <content>Ready to roll this week? #criticalrole #samriegel #samriegeledit #ashleyjohnson #ashleyjohnsonedit #dnd #dndtok #improv #voiceator #voiceacting #dungeonsanddragons #bellshells #criticalrolecampaign3 #thelastofus #roleplay </content>
-    <link href="https://tiktok.com/@criticalrole/video/7228278594231979306" rel="alternate"/>
-    <published>2023-05-01T18:13:01+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@criticalrole/video/7228628517557194026</id>
     <title>🐐🐐🐐 #criticalrole #mattmercer #aabriaiyengar #samriegel #traviswillingham #ashleyjohnson #christiannavarro #laurabailey #dungeonsanddragons #tabletop #bellshells #voiceacting #voiceactor #improv #goatscream #thelastofus </title>
@@ -51,5 +43,13 @@
     <content>If only @LauraBaileyVO had done more… #criticalrole #laurabailey #aabriaiyengar #ashleyjohnson #mattmercer #traviswillingham #christiannavarro #samriegel #laurabaileyedit #ashleyjohnsonedit  #chetneypockopea #freshcutgrass #imogentemult #fearnecalloway #voiceactor #improv #thastofus </content>
     <link href="https://tiktok.com/@criticalrole/video/7230894405387914539" rel="alternate"/>
     <published>2023-05-08T19:23:28+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@criticalrole/video/7231213790421863722</id>
+    <title>We're thrilled to announce Candela Obscura, a brand new game, in a brand new world, using a brand new system! The Lightkeeper of this tale is ready for you now, the invitation need only be accepted... 🕯️  #CandelaObscura #CriticalRole #TaliesinJaffe #Laur</title>
+    <updated>2023-05-09T16:02:54+00:00</updated>
+    <content>We're thrilled to announce Candela Obscura, a brand new game, in a brand new world, using a brand new system! The Lightkeeper of this tale is ready for you now, the invitation need only be accepted... 🕯️  #CandelaObscura #CriticalRole #TaliesinJaffe #LauraBailey #MatthewMercer #RobbieDaymond #AnjaliBhiman #AshleyJohnson #horror #horrorseries #horrorgame #tabletop #roleplayinggame #ttrpg #voiceactor #voiceacting #DarringtonPress #twitch #youtube #horrorstories #scary #creepy #fictionaluniverse </content>
+    <link href="https://tiktok.com/@criticalrole/video/7231213790421863722" rel="alternate"/>
+    <published>2023-05-09T16:02:54+00:00</published>
   </entry>
 </feed>
