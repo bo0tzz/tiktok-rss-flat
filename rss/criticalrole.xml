@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@criticalrole</id>
   <title>criticalrole TikTok</title>
-  <updated>2023-05-10T18:05:49+00:00</updated>
+  <updated>2023-05-11T20:19:34+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://bo0tzz.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from criticalrole</subtitle>
-  <entry>
-    <id>https://tiktok.com/@criticalrole/video/7229401727223745838</id>
-    <title>See you on set tonight! #criticalrole #samriegel #samriegeledit #bellshells #freshcutgrass #scanlanshorthalt #vethbrenatto #voxmachina #thelegendofvoxmachina #voiceactor #voiceacting #dnd #dndtok #dungeonsanddragons #roleplayer #ttrpg </title>
-    <updated>2023-05-04T18:51:19+00:00</updated>
-    <content>See you on set tonight! #criticalrole #samriegel #samriegeledit #bellshells #freshcutgrass #scanlanshorthalt #vethbrenatto #voxmachina #thelegendofvoxmachina #voiceactor #voiceacting #dnd #dndtok #dungeonsanddragons #roleplayer #ttrpg </content>
-    <link href="https://tiktok.com/@criticalrole/video/7229401727223745838" rel="alternate"/>
-    <published>2023-05-04T18:51:19+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@criticalrole/video/7229757855509908782</id>
     <title>Molaesmyr meta anyone? #criticalrole #mattmercer #matthewmercer #traviswillingham #aabriaiyengar #samriegel #ashleyjohnson #laurabailey #dnd #dndtok #trrpg #roleplayer #bellshells #dungeonsanddragons #tabletop #lore #criticalrolecampaign3 </title>
@@ -51,5 +43,13 @@
     <content>It’s leg day🐺 #criticalrole #traviswillingham #chetneypockopea #werewolf #laurabailey #mattmercer #ashleyjohnson #aabriaiyengar #christiannavarro #samriegel #bellshells #transformation #dnd #dndtok #dungeonsanddragons #ttrpg #roleplay #voiceacting #voiceactor </content>
     <link href="https://tiktok.com/@criticalrole/video/7231616491353935150" rel="alternate"/>
     <published>2023-05-10T18:05:49+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@criticalrole/video/7232022094874152235</id>
+    <title>Don’t hold your breath, theres a new episode tonight! 🦠 #criticalrole #traviswillingham #aabriaiyengar #laurabailey #laurabaileyedit #ashleyjohnson #ashleyjohnsonedit #samriegel #christiannavarro #christiannavarroedit #bellshells #werewolf #sneeze #voicea</title>
+    <updated>2023-05-11T20:19:34+00:00</updated>
+    <content>Don’t hold your breath, theres a new episode tonight! 🦠 #criticalrole #traviswillingham #aabriaiyengar #laurabailey #laurabaileyedit #ashleyjohnson #ashleyjohnsonedit #samriegel #christiannavarro #christiannavarroedit #bellshells #werewolf #sneeze #voiceactor #dnd #roleplayer #chetneypockopea #improv </content>
+    <link href="https://tiktok.com/@criticalrole/video/7232022094874152235" rel="alternate"/>
+    <published>2023-05-11T20:19:34+00:00</published>
   </entry>
 </feed>
