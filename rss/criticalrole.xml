@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@criticalrole</id>
   <title>criticalrole TikTok</title>
-  <updated>2023-05-15T20:02:15+00:00</updated>
+  <updated>2023-05-16T17:37:10+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://bo0tzz.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from criticalrole</subtitle>
-  <entry>
-    <id>https://tiktok.com/@criticalrole/video/7231213790421863722</id>
-    <title>We're thrilled to announce Candela Obscura, a brand new game, in a brand new world, using a brand new system! The Lightkeeper of this tale is ready for you now, the invitation need only be accepted... 🕯️  #CandelaObscura #CriticalRole #TaliesinJaffe #Laur</title>
-    <updated>2023-05-09T16:02:54+00:00</updated>
-    <content>We're thrilled to announce Candela Obscura, a brand new game, in a brand new world, using a brand new system! The Lightkeeper of this tale is ready for you now, the invitation need only be accepted... 🕯️  #CandelaObscura #CriticalRole #TaliesinJaffe #LauraBailey #MatthewMercer #RobbieDaymond #AnjaliBhiman #AshleyJohnson #horror #horrorseries #horrorgame #tabletop #roleplayinggame #ttrpg #voiceactor #voiceacting #DarringtonPress #twitch #youtube #horrorstories #scary #creepy #fictionaluniverse </content>
-    <link href="https://tiktok.com/@criticalrole/video/7231213790421863722" rel="alternate"/>
-    <published>2023-05-09T16:02:54+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@criticalrole/video/7231616491353935150</id>
     <title>It’s leg day🐺 #criticalrole #traviswillingham #chetneypockopea #werewolf #laurabailey #mattmercer #ashleyjohnson #aabriaiyengar #christiannavarro #samriegel #bellshells #transformation #dnd #dndtok #dungeonsanddragons #ttrpg #roleplay #voiceacting #voicea</title>
@@ -51,5 +43,13 @@
     <content>Why DOES it look so wet?? #criticalrole #mattmercer #traviswillingham #aabriaiyengar #laurabailey #laurabaileyedit #ashleyjohnson #ashleyjohnsonedit #samriegel #christiannavarro #dnd #dndtok #dungeonsanddragons #mini #improv #bellshells </content>
     <link href="https://tiktok.com/@criticalrole/video/7233501990305713454" rel="alternate"/>
     <published>2023-05-15T20:02:15+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@criticalrole/video/7233835689064844586</id>
+    <title>Nothing but love for F.R.I.D.A.! 🤖 #criticalrole #christiannavarro #christiannavarroedit #tabletop #roleplayer #ttrpg #dndtok #dnd #bellshells #aeormaton #improv #voiceacting #robot </title>
+    <updated>2023-05-16T17:37:10+00:00</updated>
+    <content>Nothing but love for F.R.I.D.A.! 🤖 #criticalrole #christiannavarro #christiannavarroedit #tabletop #roleplayer #ttrpg #dndtok #dnd #bellshells #aeormaton #improv #voiceacting #robot </content>
+    <link href="https://tiktok.com/@criticalrole/video/7233835689064844586" rel="alternate"/>
+    <published>2023-05-16T17:37:10+00:00</published>
   </entry>
 </feed>
