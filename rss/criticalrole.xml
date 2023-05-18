@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@criticalrole</id>
   <title>criticalrole TikTok</title>
-  <updated>2023-05-17T18:42:48+00:00</updated>
+  <updated>2023-05-18T14:22:17+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://bo0tzz.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from criticalrole</subtitle>
-  <entry>
-    <id>https://tiktok.com/@criticalrole/video/7232022094874152235</id>
-    <title>Don’t hold your breath, theres a new episode tonight! 🦠 #criticalrole #traviswillingham #aabriaiyengar #laurabailey #laurabaileyedit #ashleyjohnson #ashleyjohnsonedit #samriegel #christiannavarro #christiannavarroedit #bellshells #werewolf #sneeze #voicea</title>
-    <updated>2023-05-11T20:19:34+00:00</updated>
-    <content>Don’t hold your breath, theres a new episode tonight! 🦠 #criticalrole #traviswillingham #aabriaiyengar #laurabailey #laurabaileyedit #ashleyjohnson #ashleyjohnsonedit #samriegel #christiannavarro #christiannavarroedit #bellshells #werewolf #sneeze #voiceactor #dnd #roleplayer #chetneypockopea #improv </content>
-    <link href="https://tiktok.com/@criticalrole/video/7232022094874152235" rel="alternate"/>
-    <published>2023-05-11T20:19:34+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@criticalrole/video/7232362635998629163</id>
     <title>You heard right, it’s Maps Mercer Friday! 🏰 #criticalrole #mattmercer #mattmerceredit #dnd #dndtok #mini #miniature #tabletopgaming #tabletop #ttrpg #minimap #battlemap #dndminiatures #dungeonsandragons #miniaturegaming #diy </title>
@@ -51,5 +43,13 @@
     <content>Cheers! 🍻#criticalrole #mattmercer #aabriaiyengar #ashleyjohnson #traviswillingham #samriegel #laurabailey #christiannavarro #bellshells #dnd #voiceactor #cheers #shots #foodreaction </content>
     <link href="https://tiktok.com/@criticalrole/video/7234223682560740651" rel="alternate"/>
     <published>2023-05-17T18:42:48+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@criticalrole/video/7234527633701211434</id>
+    <title>Ready to catch up with @Marisha Ray641 @Liam O’Brien and #taliesinjaffe after the events of the apogee solstice tonight? 🔴🌙  #criticalrole #marisharay #marisharayedit #liamobrien #laudnacriticalrole #orym #ashtongreymoore #bellshells #voiceactor #improv #</title>
+    <updated>2023-05-18T14:22:17+00:00</updated>
+    <content>Ready to catch up with @Marisha Ray641 @Liam O’Brien and #taliesinjaffe after the events of the apogee solstice tonight? 🔴🌙  #criticalrole #marisharay #marisharayedit #liamobrien #laudnacriticalrole #orym #ashtongreymoore #bellshells #voiceactor #improv #ashleyjohnson #dnd #dungeonsanddragons </content>
+    <link href="https://tiktok.com/@criticalrole/video/7234527633701211434" rel="alternate"/>
+    <published>2023-05-18T14:22:17+00:00</published>
   </entry>
 </feed>
