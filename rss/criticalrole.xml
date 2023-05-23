@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@criticalrole</id>
   <title>criticalrole TikTok</title>
-  <updated>2023-05-18T14:22:17+00:00</updated>
+  <updated>2023-05-23T18:00:14+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://bo0tzz.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from criticalrole</subtitle>
-  <entry>
-    <id>https://tiktok.com/@criticalrole/video/7232362635998629163</id>
-    <title>You heard right, it’s Maps Mercer Friday! 🏰 #criticalrole #mattmercer #mattmerceredit #dnd #dndtok #mini #miniature #tabletopgaming #tabletop #ttrpg #minimap #battlemap #dndminiatures #dungeonsandragons #miniaturegaming #diy </title>
-    <updated>2023-05-12T18:21:09+00:00</updated>
-    <content>You heard right, it’s Maps Mercer Friday! 🏰 #criticalrole #mattmercer #mattmerceredit #dnd #dndtok #mini #miniature #tabletopgaming #tabletop #ttrpg #minimap #battlemap #dndminiatures #dungeonsandragons #miniaturegaming #diy </content>
-    <link href="https://tiktok.com/@criticalrole/video/7232362635998629163" rel="alternate"/>
-    <published>2023-05-12T18:21:09+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@criticalrole/video/7233501990305713454</id>
     <title>Why DOES it look so wet?? #criticalrole #mattmercer #traviswillingham #aabriaiyengar #laurabailey #laurabaileyedit #ashleyjohnson #ashleyjohnsonedit #samriegel #christiannavarro #dnd #dndtok #dungeonsanddragons #mini #improv #bellshells </title>
@@ -51,5 +43,13 @@
     <content>Ready to catch up with @Marisha Ray641 @Liam O’Brien and #taliesinjaffe after the events of the apogee solstice tonight? 🔴🌙  #criticalrole #marisharay #marisharayedit #liamobrien #laudnacriticalrole #orym #ashtongreymoore #bellshells #voiceactor #improv #ashleyjohnson #dnd #dungeonsanddragons </content>
     <link href="https://tiktok.com/@criticalrole/video/7234527633701211434" rel="alternate"/>
     <published>2023-05-18T14:22:17+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@criticalrole/video/7236439227075022122</id>
+    <title>Shhh! @Liam O’Brien and Dani Carr are whispering something… #criticalrole #critroletiktok #bellshells #liamobrien #orymoftheairashari #orym #criticalroleedit #criticalroleedits #dnd #dungeonsanddragons #roleplayer #roleplay #criticalrolecampaign3 #critica</title>
+    <updated>2023-05-23T18:00:14+00:00</updated>
+    <content>Shhh! @Liam O’Brien and Dani Carr are whispering something… #criticalrole #critroletiktok #bellshells #liamobrien #orymoftheairashari #orym #criticalroleedit #criticalroleedits #dnd #dungeonsanddragons #roleplayer #roleplay #criticalrolecampaign3 #criticalrolememes #critrole </content>
+    <link href="https://tiktok.com/@criticalrole/video/7236439227075022122" rel="alternate"/>
+    <published>2023-05-23T18:00:14+00:00</published>
   </entry>
 </feed>
