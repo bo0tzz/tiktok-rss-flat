@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@criticalrole</id>
   <title>criticalrole TikTok</title>
-  <updated>2023-05-29T02:11:27+00:00</updated>
+  <updated>2023-05-30T18:53:02+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://bo0tzz.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from criticalrole</subtitle>
-  <entry>
-    <id>https://tiktok.com/@criticalrole/video/7234527633701211434</id>
-    <title>Ready to catch up with @Marisha Ray641 @Liam O’Brien and #taliesinjaffe after the events of the apogee solstice tonight? 🔴🌙  #criticalrole #marisharay #marisharayedit #liamobrien #laudnacriticalrole #orym #ashtongreymoore #bellshells #voiceactor #improv #</title>
-    <updated>2023-05-18T14:22:17+00:00</updated>
-    <content>Ready to catch up with @Marisha Ray641 @Liam O’Brien and #taliesinjaffe after the events of the apogee solstice tonight? 🔴🌙  #criticalrole #marisharay #marisharayedit #liamobrien #laudnacriticalrole #orym #ashtongreymoore #bellshells #voiceactor #improv #ashleyjohnson #dnd #dungeonsanddragons </content>
-    <link href="https://tiktok.com/@criticalrole/video/7234527633701211434" rel="alternate"/>
-    <published>2023-05-18T14:22:17+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@criticalrole/video/7236439227075022122</id>
     <title>Shhh! @Liam O’Brien and Dani Carr are whispering something… #criticalrole #critroletiktok #bellshells #liamobrien #orymoftheairashari #orym #criticalroleedit #criticalroleedits #dnd #dungeonsanddragons #roleplayer #roleplay #criticalrolecampaign3 #critica</title>
@@ -51,5 +43,13 @@
     <content>It’s a Maps Mercer Memorial Day weekend! #matthewmercer #criticalrole #critrole #dnd #dndtok #mattmercer #critroletiktok #criticalrolecampaign3 #minis #miniaturebuilding #ttrpg #miniature #mini #battlemap #diy #fyp </content>
     <link href="https://tiktok.com/@criticalrole/video/7238421254028414251" rel="alternate"/>
     <published>2023-05-29T02:11:27+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@criticalrole/video/7239050441923857707</id>
+    <title>@Liam O’Brien succeeds on another stealth check! #liamobrien #matthewmercer #critrole #criticalrole #criticalroleedit #criticalrolememes #sneaking #surprise #dnd #dndtok #dndminis #minis #dungeonsanddragons #sneakingup </title>
+    <updated>2023-05-30T18:53:02+00:00</updated>
+    <content>@Liam O’Brien succeeds on another stealth check! #liamobrien #matthewmercer #critrole #criticalrole #criticalroleedit #criticalrolememes #sneaking #surprise #dnd #dndtok #dndminis #minis #dungeonsanddragons #sneakingup </content>
+    <link href="https://tiktok.com/@criticalrole/video/7239050441923857707" rel="alternate"/>
+    <published>2023-05-30T18:53:02+00:00</published>
   </entry>
 </feed>
