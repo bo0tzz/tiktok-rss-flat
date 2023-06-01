@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@criticalrole</id>
   <title>criticalrole TikTok</title>
-  <updated>2023-05-31T18:53:10+00:00</updated>
+  <updated>2023-06-01T19:48:51+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://bo0tzz.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from criticalrole</subtitle>
-  <entry>
-    <id>https://tiktok.com/@criticalrole/video/7236834972307426606</id>
-    <title>🔥🔥🔥 recomendations! #criticalrole #critroletiktok #critrole #criticalrolememes #samriegel #liamobrien #marisharay #traviswillingham #voiceactor #voiceacting #improv #comedy #breathofthewild #breathofthewildcosplay </title>
-    <updated>2023-05-24T19:35:54+00:00</updated>
-    <content>🔥🔥🔥 recomendations! #criticalrole #critroletiktok #critrole #criticalrolememes #samriegel #liamobrien #marisharay #traviswillingham #voiceactor #voiceacting #improv #comedy #breathofthewild #breathofthewildcosplay </content>
-    <link href="https://tiktok.com/@criticalrole/video/7236834972307426606" rel="alternate"/>
-    <published>2023-05-24T19:35:54+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@criticalrole/video/7237307535051492650</id>
     <title>Happy Candela Obscura day! #candelaobscura #criticalrole #critrole #horror #oddities #horrorseries #horrorttrpg #horrorgame #samriegel #settour #critroletiktok #criticalroletiktok #matthewmercer #mattmercer #laurabailey #ashleyjohnson #robbiedaymond #anja</title>
@@ -51,5 +43,13 @@
     <content>HERE WE GO! #criticalrole #critrole #liamobrien #taliesinjaffe #vaxildan #orymoftheairashari #ashtongreymoore  #percyderolo #bellshells #criticalrolememes #criticalroletiktok #critroletiktok #voiceactor #voiceacting #improv #fyp </content>
     <link href="https://tiktok.com/@criticalrole/video/7239421558693956910" rel="alternate"/>
     <published>2023-05-31T18:53:10+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@criticalrole/video/7239806995887295786</id>
+    <title>Are you all warmed up for tonight’s episode? #criticalrole #critrole #marisharay #marisharayedit #liamobrien #criticalrolememes #criticalrolecampaign3 #laudnacriticalrole #voiceactor #voiceacting #improv #fyp #soundeffect #makingfaces </title>
+    <updated>2023-06-01T19:48:51+00:00</updated>
+    <content>Are you all warmed up for tonight’s episode? #criticalrole #critrole #marisharay #marisharayedit #liamobrien #criticalrolememes #criticalrolecampaign3 #laudnacriticalrole #voiceactor #voiceacting #improv #fyp #soundeffect #makingfaces </content>
+    <link href="https://tiktok.com/@criticalrole/video/7239806995887295786" rel="alternate"/>
+    <published>2023-06-01T19:48:51+00:00</published>
   </entry>
 </feed>
