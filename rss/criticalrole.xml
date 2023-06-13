@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@criticalrole</id>
   <title>criticalrole TikTok</title>
-  <updated>2023-06-12T19:30:31+00:00</updated>
+  <updated>2023-06-13T19:58:35+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://bo0tzz.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from criticalrole</subtitle>
-  <entry>
-    <id>https://tiktok.com/@criticalrole/video/7241286482005118254</id>
-    <title>It’s high qualify beef jerky!! #criticalrole #critrole #criticalroleedit #criticalrolecampaign3 #criticalroletiktok #critroleclip #critroletiktok #utkarshambudkar #emilyaxford #emilyaxfordedit #dnd #dndtok #dungeonsanddragons #dnd5e #tabletop #voiceactor </title>
-    <updated>2023-06-05T19:30:02+00:00</updated>
-    <content>It’s high qualify beef jerky!! #criticalrole #critrole #criticalroleedit #criticalrolecampaign3 #criticalroletiktok #critroleclip #critroletiktok #utkarshambudkar #emilyaxford #emilyaxfordedit #dnd #dndtok #dungeonsanddragons #dnd5e #tabletop #voiceactor #voiceacting #improv #dndmemes </content>
-    <link href="https://tiktok.com/@criticalrole/video/7241286482005118254" rel="alternate"/>
-    <published>2023-06-05T19:30:02+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@criticalrole/video/7241660397177015598</id>
     <title>It’s a quick game! 🃏#criticalrole #critrole #emilyaxford #emilyaxfordedit #critroleclip #critroletiktok #critroletiktok #criticalroleedit #criticalrolememes #criticalrolecampaign3 #criticalroletiktok #criticalrolememes #fyp #matthewmercer #utkarshambudkar</title>
@@ -51,5 +43,13 @@
     <content>Taliesin Jaffe: Master of Musicals #criticalrole #critrole #taliesinjaffe #liamobrien #orymoftheairashari #ashtongreymoore #critrolememes #criticalroletiktok #critroletiktok #improv #singing #musical #musicaltheatre #voiceacting #voiceactor #fyp #dnd </content>
     <link href="https://tiktok.com/@criticalrole/video/7243884212711951659" rel="alternate"/>
     <published>2023-06-12T19:30:31+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@criticalrole/video/7244262523799670059</id>
+    <title>Replying to @adam dowd  What’s @SamRiegel’s next ad character going to be? #criticalrole #critrole #samriegel #liamobrien #critroletiktok #criticalrolememes #voiceactor #voiceacting #improv #comedy #fyp #magician #character #dndtiktok #dndtok </title>
+    <updated>2023-06-13T19:58:35+00:00</updated>
+    <content>Replying to @adam dowd  What’s @SamRiegel’s next ad character going to be? #criticalrole #critrole #samriegel #liamobrien #critroletiktok #criticalrolememes #voiceactor #voiceacting #improv #comedy #fyp #magician #character #dndtiktok #dndtok </content>
+    <link href="https://tiktok.com/@criticalrole/video/7244262523799670059" rel="alternate"/>
+    <published>2023-06-13T19:58:35+00:00</published>
   </entry>
 </feed>
