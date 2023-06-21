@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@criticalrole</id>
   <title>criticalrole TikTok</title>
-  <updated>2023-06-20T20:44:52+00:00</updated>
+  <updated>2023-06-21T16:55:08+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://bo0tzz.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from criticalrole</subtitle>
-  <entry>
-    <id>https://tiktok.com/@criticalrole/video/7244627707965852970</id>
-    <title>Rolling math rocks with @Liam O’Brien! 🎲 #criticalrole #critrole #liamobrien #orymoftheairashari #dice #diceroll #dicetok #diceart #dicegoblin #d20 #dnddiceset #dnddice #dnddicegoblin #voiceactor #fyp #tabletop </title>
-    <updated>2023-06-14T19:35:47+00:00</updated>
-    <content>Rolling math rocks with @Liam O’Brien! 🎲 #criticalrole #critrole #liamobrien #orymoftheairashari #dice #diceroll #dicetok #diceart #dicegoblin #d20 #dnddiceset #dnddice #dnddicegoblin #voiceactor #fyp #tabletop </content>
-    <link href="https://tiktok.com/@criticalrole/video/7244627707965852970" rel="alternate"/>
-    <published>2023-06-14T19:35:47+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@criticalrole/video/7245058740989349162</id>
     <title>Rolling for ✨oppulennce!✨  #aimeecarrero #dice #elenaofavalor #adora #shera #sheraandtheprincessesofpower #dice #dnddice #diceroll #d20 #tabletop #dicegremlin #dicegoblinlife #dicegoblinlife #ttrpg #mathrocks #dnd #dungeonsanddragons </title>
@@ -51,5 +43,13 @@
     <content>Never underestimate Kyle’s voice!! 🎶 #criticalrole #critrole #criticalrolememes #critrolememes #liamobrien #singing #karaoke #oogieboogie #thenightmarebeforechristmas #song #acapella </content>
     <link href="https://tiktok.com/@criticalrole/video/7246872034817396014" rel="alternate"/>
     <published>2023-06-20T20:44:52+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@criticalrole/video/7247183932217773355</id>
+    <title>Reminder 💅🏻💅🏻💅🏻 #critrole #criticalrole #emilyaxford #matthewmercer #aimeecarrero #marisharay #marisharay#criticalroletiktok #criticalrolecampaign3 #critroletiktok #roleplay #voiceactor #voiceacting #dnd #dndtok #dungeonsanddragons #ganondorf #shera </title>
+    <updated>2023-06-21T16:55:08+00:00</updated>
+    <content>Reminder 💅🏻💅🏻💅🏻 #critrole #criticalrole #emilyaxford #matthewmercer #aimeecarrero #marisharay #marisharay#criticalroletiktok #criticalrolecampaign3 #critroletiktok #roleplay #voiceactor #voiceacting #dnd #dndtok #dungeonsanddragons #ganondorf #shera </content>
+    <link href="https://tiktok.com/@criticalrole/video/7247183932217773355" rel="alternate"/>
+    <published>2023-06-21T16:55:08+00:00</published>
   </entry>
 </feed>
