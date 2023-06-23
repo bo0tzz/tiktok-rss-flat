@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@criticalrole</id>
   <title>criticalrole TikTok</title>
-  <updated>2023-06-22T18:26:19+00:00</updated>
+  <updated>2023-06-23T21:38:05+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://bo0tzz.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from criticalrole</subtitle>
-  <entry>
-    <id>https://tiktok.com/@criticalrole/video/7245372114986454318</id>
-    <title>What vibe are we feeling? #criticalrole #critrole #matthewmercer #taliesinjaffe #aimeecarrero #liamobrien #marisharay #utkarshambudkar #emilyaxford #emilyaxfordedit #dnd #voiceactor #tabletop #fyp </title>
-    <updated>2023-06-16T19:44:31+00:00</updated>
-    <content>What vibe are we feeling? #criticalrole #critrole #matthewmercer #taliesinjaffe #aimeecarrero #liamobrien #marisharay #utkarshambudkar #emilyaxford #emilyaxfordedit #dnd #voiceactor #tabletop #fyp </content>
-    <link href="https://tiktok.com/@criticalrole/video/7245372114986454318" rel="alternate"/>
-    <published>2023-06-16T19:44:31+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@criticalrole/video/7246444199808093482</id>
     <title>Rub pawbs for additional luck bonus 🐾#criticalrole #critrole #critroletiktok #criticalroletiktok #corgi #corgisoftiktok #dogsoftiktok #puppy #corgisdoingsthings #liamobrien #dnd </title>
@@ -51,5 +43,13 @@
     <content>Got your badass face on for tonight? #criticalrole #critrole #utkarshambudkar #marisharay #emilyaxford #liamobrien #aimeecarrero #taliesinjaffe #matthewmercer #posechallenge #pose #dnd #voiceactor #dungeonsanddragons #critroletiktok #criticalroletiktok </content>
     <link href="https://tiktok.com/@criticalrole/video/7247578490319523114" rel="alternate"/>
     <published>2023-06-22T18:26:19+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@criticalrole/video/7247998988375346478</id>
+    <title>Look how much fun we’re having!!! #critrole #criticalrole #samriegel #marisharay #liamobrien #bellshells #criticalrolecampaign3 #orymoftheairashari #freshcutgrass #laudnacriticalrole #hiss #cat #mask #catmask #neko #catears #voiceactor #voiceacting </title>
+    <updated>2023-06-23T21:38:05+00:00</updated>
+    <content>Look how much fun we’re having!!! #critrole #criticalrole #samriegel #marisharay #liamobrien #bellshells #criticalrolecampaign3 #orymoftheairashari #freshcutgrass #laudnacriticalrole #hiss #cat #mask #catmask #neko #catears #voiceactor #voiceacting </content>
+    <link href="https://tiktok.com/@criticalrole/video/7247998988375346478" rel="alternate"/>
+    <published>2023-06-23T21:38:05+00:00</published>
   </entry>
 </feed>
