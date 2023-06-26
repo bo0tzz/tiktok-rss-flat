@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@criticalrole</id>
   <title>criticalrole TikTok</title>
-  <updated>2023-06-23T21:38:05+00:00</updated>
+  <updated>2023-06-26T19:58:45+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://bo0tzz.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from criticalrole</subtitle>
-  <entry>
-    <id>https://tiktok.com/@criticalrole/video/7246444199808093482</id>
-    <title>Rub pawbs for additional luck bonus 🐾#criticalrole #critrole #critroletiktok #criticalroletiktok #corgi #corgisoftiktok #dogsoftiktok #puppy #corgisdoingsthings #liamobrien #dnd </title>
-    <updated>2023-06-19T17:04:44+00:00</updated>
-    <content>Rub pawbs for additional luck bonus 🐾#criticalrole #critrole #critroletiktok #criticalroletiktok #corgi #corgisoftiktok #dogsoftiktok #puppy #corgisdoingsthings #liamobrien #dnd </content>
-    <link href="https://tiktok.com/@criticalrole/video/7246444199808093482" rel="alternate"/>
-    <published>2023-06-19T17:04:44+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@criticalrole/video/7246872034817396014</id>
     <title>Never underestimate Kyle’s voice!! 🎶 #criticalrole #critrole #criticalrolememes #critrolememes #liamobrien #singing #karaoke #oogieboogie #thenightmarebeforechristmas #song #acapella </title>
@@ -51,5 +43,13 @@
     <content>Look how much fun we’re having!!! #critrole #criticalrole #samriegel #marisharay #liamobrien #bellshells #criticalrolecampaign3 #orymoftheairashari #freshcutgrass #laudnacriticalrole #hiss #cat #mask #catmask #neko #catears #voiceactor #voiceacting </content>
     <link href="https://tiktok.com/@criticalrole/video/7247998988375346478" rel="alternate"/>
     <published>2023-06-23T21:38:05+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@criticalrole/video/7249086649425218862</id>
+    <title>Bor’Dooooooooor! #criticalrole #critrole #utkarshambudkar #marisharay #taliesinjaffe #liamobrien #aimeecarrero #emilyaxford #matthewmercer #dnd #dndtok #bellshells #laudnacriticalrole #criticalrolecampaign3 #criticalroletiktok #tabletop #improv #fyp #ttrp</title>
+    <updated>2023-06-26T19:58:45+00:00</updated>
+    <content>Bor’Dooooooooor! #criticalrole #critrole #utkarshambudkar #marisharay #taliesinjaffe #liamobrien #aimeecarrero #emilyaxford #matthewmercer #dnd #dndtok #bellshells #laudnacriticalrole #criticalrolecampaign3 #criticalroletiktok #tabletop #improv #fyp #ttrpg </content>
+    <link href="https://tiktok.com/@criticalrole/video/7249086649425218862" rel="alternate"/>
+    <published>2023-06-26T19:58:45+00:00</published>
   </entry>
 </feed>
