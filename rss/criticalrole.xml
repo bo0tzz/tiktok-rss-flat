@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@criticalrole</id>
   <title>criticalrole TikTok</title>
-  <updated>2023-06-27T21:06:47+00:00</updated>
+  <updated>2023-06-28T18:21:16+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://bo0tzz.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from criticalrole</subtitle>
-  <entry>
-    <id>https://tiktok.com/@criticalrole/video/7247183932217773355</id>
-    <title>Reminder 💅🏻💅🏻💅🏻 #critrole #criticalrole #emilyaxford #matthewmercer #aimeecarrero #marisharay #marisharay#criticalroletiktok #criticalrolecampaign3 #critroletiktok #roleplay #voiceactor #voiceacting #dnd #dndtok #dungeonsanddragons #ganondorf #shera </title>
-    <updated>2023-06-21T16:55:08+00:00</updated>
-    <content>Reminder 💅🏻💅🏻💅🏻 #critrole #criticalrole #emilyaxford #matthewmercer #aimeecarrero #marisharay #marisharay#criticalroletiktok #criticalrolecampaign3 #critroletiktok #roleplay #voiceactor #voiceacting #dnd #dndtok #dungeonsanddragons #ganondorf #shera </content>
-    <link href="https://tiktok.com/@criticalrole/video/7247183932217773355" rel="alternate"/>
-    <published>2023-06-21T16:55:08+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@criticalrole/video/7247578490319523114</id>
     <title>Got your badass face on for tonight? #criticalrole #critrole #utkarshambudkar #marisharay #emilyaxford #liamobrien #aimeecarrero #taliesinjaffe #matthewmercer #posechallenge #pose #dnd #voiceactor #dungeonsanddragons #critroletiktok #criticalroletiktok </title>
@@ -51,5 +43,13 @@
     <content>Guess what the school’s mascot is 🧙#criticalrole #critrole #emilyaxford #emilyaxfordedit #matthewmercer #liamobrien #bellshells #criticalrolecampaign3 #prismgrimpoppy #orymoftheairashari #dnd #dungeonsanddragons #dndtok #dndtiktok #dndfam #fyp </content>
     <link href="https://tiktok.com/@criticalrole/video/7249475281902177582" rel="alternate"/>
     <published>2023-06-27T21:06:47+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@criticalrole/video/7249803702255537454</id>
+    <title>Who me? 👀 #criticalrole #critrole #matthewmercer #marisharay #utkarshambudkar #emilyaxford #dnd #dndtok #bellshells #laudnacriticalrole #criticalrolecampaign3 #voiceacting #soundeffectsmakeeverystorybetter #soundeffects #ttrpg #tabletop #improv #fyp</title>
+    <updated>2023-06-28T18:21:16+00:00</updated>
+    <content>Who me? 👀 #criticalrole #critrole #matthewmercer #marisharay #utkarshambudkar #emilyaxford #dnd #dndtok #bellshells #laudnacriticalrole #criticalrolecampaign3 #voiceacting #soundeffectsmakeeverystorybetter #soundeffects #ttrpg #tabletop #improv #fyp</content>
+    <link href="https://tiktok.com/@criticalrole/video/7249803702255537454" rel="alternate"/>
+    <published>2023-06-28T18:21:16+00:00</published>
   </entry>
 </feed>
