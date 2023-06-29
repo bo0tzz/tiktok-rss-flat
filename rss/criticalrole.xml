@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@criticalrole</id>
   <title>criticalrole TikTok</title>
-  <updated>2023-06-28T18:21:16+00:00</updated>
+  <updated>2023-06-29T19:09:48+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://bo0tzz.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from criticalrole</subtitle>
-  <entry>
-    <id>https://tiktok.com/@criticalrole/video/7247578490319523114</id>
-    <title>Got your badass face on for tonight? #criticalrole #critrole #utkarshambudkar #marisharay #emilyaxford #liamobrien #aimeecarrero #taliesinjaffe #matthewmercer #posechallenge #pose #dnd #voiceactor #dungeonsanddragons #critroletiktok #criticalroletiktok </title>
-    <updated>2023-06-22T18:26:19+00:00</updated>
-    <content>Got your badass face on for tonight? #criticalrole #critrole #utkarshambudkar #marisharay #emilyaxford #liamobrien #aimeecarrero #taliesinjaffe #matthewmercer #posechallenge #pose #dnd #voiceactor #dungeonsanddragons #critroletiktok #criticalroletiktok </content>
-    <link href="https://tiktok.com/@criticalrole/video/7247578490319523114" rel="alternate"/>
-    <published>2023-06-22T18:26:19+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@criticalrole/video/7247998988375346478</id>
     <title>Look how much fun we’re having!!! #critrole #criticalrole #samriegel #marisharay #liamobrien #bellshells #criticalrolecampaign3 #orymoftheairashari #freshcutgrass #laudnacriticalrole #hiss #cat #mask #catmask #neko #catears #voiceactor #voiceacting </title>
@@ -51,5 +43,13 @@
     <content>Who me? 👀 #criticalrole #critrole #matthewmercer #marisharay #utkarshambudkar #emilyaxford #dnd #dndtok #bellshells #laudnacriticalrole #criticalrolecampaign3 #voiceacting #soundeffectsmakeeverystorybetter #soundeffects #ttrpg #tabletop #improv #fyp</content>
     <link href="https://tiktok.com/@criticalrole/video/7249803702255537454" rel="alternate"/>
     <published>2023-06-28T18:21:16+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@criticalrole/video/7250187316625509675</id>
+    <title>CANDELA OBSCURA Chapter 1, Episode 2 haunts Twitch and YouTube tonight! 🕯️#criticalrole #critrole #candelaobscura #horror #matthewmercer #taliesinjaffe #asjleyjohnson #robbiedaymond #anjalibhimani #laurabailey #goth #steampunk #tabletop #ttrpg #improv #vo</title>
+    <updated>2023-06-29T19:09:48+00:00</updated>
+    <content>CANDELA OBSCURA Chapter 1, Episode 2 haunts Twitch and YouTube tonight! 🕯️#criticalrole #critrole #candelaobscura #horror #matthewmercer #taliesinjaffe #asjleyjohnson #robbiedaymond #anjalibhimani #laurabailey #goth #steampunk #tabletop #ttrpg #improv #voiceactor #horrorseries </content>
+    <link href="https://tiktok.com/@criticalrole/video/7250187316625509675" rel="alternate"/>
+    <published>2023-06-29T19:09:48+00:00</published>
   </entry>
 </feed>
