@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@criticalrole</id>
   <title>criticalrole TikTok</title>
-  <updated>2023-07-18T18:04:17+00:00</updated>
+  <updated>2023-07-19T18:31:20+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://bo0tzz.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from criticalrole</subtitle>
-  <entry>
-    <id>https://tiktok.com/@criticalrole/video/7255017785577737514</id>
-    <title>That’s another 2… 🎅🏻 #criticalrole #critrole #matthewmercer #emilyaxford #emilyaxfordedit #liamobrien #samriegel #marisharay #ashleyjohnson #criticalroletiktok #dndtok #dnd #dnd5e #roleplay #fyp #thelastofus #ganondorf #breathofthewild </title>
-    <updated>2023-07-12T19:34:33+00:00</updated>
-    <content>That’s another 2… 🎅🏻 #criticalrole #critrole #matthewmercer #emilyaxford #emilyaxfordedit #liamobrien #samriegel #marisharay #ashleyjohnson #criticalroletiktok #dndtok #dnd #dnd5e #roleplay #fyp #thelastofus #ganondorf #breathofthewild </content>
-    <link href="https://tiktok.com/@criticalrole/video/7255017785577737514" rel="alternate"/>
-    <published>2023-07-12T19:34:33+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@criticalrole/video/7255500445521612078</id>
     <title>Is it blending? The stream is starting! 🐯#criticalrole #critrole #liamobrien #samriegel #ashleyjohnson  #laurabailey #marisharay #makeup #tiger #concealer #criticalroletiktok #dndfam #ashleyjohnsonedit #facepaint #behindthescenes </title>
@@ -51,5 +43,13 @@
     <content>What does it look like when you eat ramen? 🍜 #criticalrole #critrole #ashleyjohnson #ashleyjohnsonedit #samriegel #marisharay #laurabailey #laurabaileyedit #liamobrien #kigurumi #tiger #ramen #noodles #dnd #fyp #voiceactor #thelastofus </content>
     <link href="https://tiktok.com/@criticalrole/video/7257221048163241258" rel="alternate"/>
     <published>2023-07-18T18:04:17+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@criticalrole/video/7257599081294515502</id>
+    <title>All kinds of noodles are welcome here!! 🍜 #laurabailey #laurabaileyedit #taliesinjaffe #samriegel #marisharay #asjleyjohnson #ashleyjohnsonedit #noodles #ramen #foodreaction #foodreview #criticalrole #critrole #behindthescenes #fyp #thelastofus #critrolet</title>
+    <updated>2023-07-19T18:31:20+00:00</updated>
+    <content>All kinds of noodles are welcome here!! 🍜 #laurabailey #laurabaileyedit #taliesinjaffe #samriegel #marisharay #asjleyjohnson #ashleyjohnsonedit #noodles #ramen #foodreaction #foodreview #criticalrole #critrole #behindthescenes #fyp #thelastofus #critroletiktok </content>
+    <link href="https://tiktok.com/@criticalrole/video/7257599081294515502" rel="alternate"/>
+    <published>2023-07-19T18:31:20+00:00</published>
   </entry>
 </feed>
