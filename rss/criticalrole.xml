@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@criticalrole</id>
   <title>criticalrole TikTok</title>
-  <updated>2023-07-24T19:34:32+00:00</updated>
+  <updated>2023-07-26T19:55:15+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,22 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://bo0tzz.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from criticalrole</subtitle>
-  <entry>
-    <id>https://tiktok.com/@criticalrole/video/7256882884210937131</id>
-    <title>🥹🥹🥹 #criticalrole #critrole #laudnacriticalrole #imogentemult #marisharay #marisharayedit #laurabailey #laurabaileyedit #matthewmercer #taliesinjaffe #ashleyjohnson #liamobrien #samriegel  #traviswillingham #criticalroletiktok #criticalrolecampaign3 #bell</title>
-    <updated>2023-07-17T20:12:07+00:00</updated>
-    <content>🥹🥹🥹 #criticalrole #critrole #laudnacriticalrole #imogentemult #marisharay #marisharayedit #laurabailey #laurabaileyedit #matthewmercer #taliesinjaffe #ashleyjohnson #liamobrien #samriegel  #traviswillingham #criticalroletiktok #criticalrolecampaign3 #bellshells #kiss #lgbtq #voiceactor #behindthescenes </content>
-    <link href="https://tiktok.com/@criticalrole/video/7256882884210937131" rel="alternate"/>
-    <published>2023-07-17T20:12:07+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@criticalrole/video/7257221048163241258</id>
-    <title>What does it look like when you eat ramen? 🍜 #criticalrole #critrole #ashleyjohnson #ashleyjohnsonedit #samriegel #marisharay #laurabailey #laurabaileyedit #liamobrien #kigurumi #tiger #ramen #noodles #dnd #fyp #voiceactor #thelastofus </title>
-    <updated>2023-07-18T18:04:17+00:00</updated>
-    <content>What does it look like when you eat ramen? 🍜 #criticalrole #critrole #ashleyjohnson #ashleyjohnsonedit #samriegel #marisharay #laurabailey #laurabaileyedit #liamobrien #kigurumi #tiger #ramen #noodles #dnd #fyp #voiceactor #thelastofus </content>
-    <link href="https://tiktok.com/@criticalrole/video/7257221048163241258" rel="alternate"/>
-    <published>2023-07-18T18:04:17+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@criticalrole/video/7257599081294515502</id>
     <title>All kinds of noodles are welcome here!! 🍜 #laurabailey #laurabaileyedit #taliesinjaffe #samriegel #marisharay #asjleyjohnson #ashleyjohnsonedit #noodles #ramen #foodreaction #foodreview #criticalrole #critrole #behindthescenes #fyp #thelastofus #critrolet</title>
@@ -51,5 +35,21 @@
     <content>Stayin’ fit! 💨 #criticalrole #critrole #samriegel #liamobrien #marisharay #criticalrolememes #soundeffects #freshcutgrass #orymoftheairashari #criticalrolecampaign3 #bellshells #fartsarefunny #fart #criticalroletiktok #dnd </content>
     <link href="https://tiktok.com/@criticalrole/video/7259470801764683050" rel="alternate"/>
     <published>2023-07-24T19:34:32+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@criticalrole/video/7259818776928144686</id>
+    <title>Maps Mercer is back, baby! 🗻🌲 #matthewmercer #dnd #battlemap #dungeonsanddragons #dnd5e #dndtok #miniaturebuilding #mini #criticalroletiktok #criticalrole #critrole #miniature #dndmaps #map #tabletop #tabletoprpg #ttrpg </title>
+    <updated>2023-07-25T18:04:48+00:00</updated>
+    <content>Maps Mercer is back, baby! 🗻🌲 #matthewmercer #dnd #battlemap #dungeonsanddragons #dnd5e #dndtok #miniaturebuilding #mini #criticalroletiktok #criticalrole #critrole #miniature #dndmaps #map #tabletop #tabletoprpg #ttrpg </content>
+    <link href="https://tiktok.com/@criticalrole/video/7259818776928144686" rel="alternate"/>
+    <published>2023-07-25T18:04:48+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@criticalrole/video/7260218332199046442</id>
+    <title>After surviving harrowing encounters with the otherworldly, The Circle of the Vassal and the Veil are leveling up! But what horrors still lurk in the dark reaches of the Fairelands yet to be discovered?… The Candela Obscura Chapter 1 finale haunts Twitch </title>
+    <updated>2023-07-26T19:55:15+00:00</updated>
+    <content>After surviving harrowing encounters with the otherworldly, The Circle of the Vassal and the Veil are leveling up! But what horrors still lurk in the dark reaches of the Fairelands yet to be discovered?… The Candela Obscura Chapter 1 finale haunts Twitch and YouTube this Thursday! 🕯️ #matthewmercer #ashleyjohnson #ashleyjohnsonedit #robbiedaymond #laurabailey #laurabaileyedit #anjalibhiman #candelaobscura #horror #gothic #victoriangothic #ghost #spooky #horrorseries #ttrpg #horrorgame #roleplay #improv #fyp </content>
+    <link href="https://tiktok.com/@criticalrole/video/7260218332199046442" rel="alternate"/>
+    <published>2023-07-26T19:55:15+00:00</published>
   </entry>
 </feed>
