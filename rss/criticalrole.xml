@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@criticalrole</id>
   <title>criticalrole TikTok</title>
-  <updated>2023-07-31T19:54:17+00:00</updated>
+  <updated>2023-08-01T18:36:47+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://bo0tzz.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from criticalrole</subtitle>
-  <entry>
-    <id>https://tiktok.com/@criticalrole/video/7259818776928144686</id>
-    <title>Maps Mercer is back, baby! 🗻🌲 #matthewmercer #dnd #battlemap #dungeonsanddragons #dnd5e #dndtok #miniaturebuilding #mini #criticalroletiktok #criticalrole #critrole #miniature #dndmaps #map #tabletop #tabletoprpg #ttrpg </title>
-    <updated>2023-07-25T18:04:48+00:00</updated>
-    <content>Maps Mercer is back, baby! 🗻🌲 #matthewmercer #dnd #battlemap #dungeonsanddragons #dnd5e #dndtok #miniaturebuilding #mini #criticalroletiktok #criticalrole #critrole #miniature #dndmaps #map #tabletop #tabletoprpg #ttrpg </content>
-    <link href="https://tiktok.com/@criticalrole/video/7259818776928144686" rel="alternate"/>
-    <published>2023-07-25T18:04:48+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@criticalrole/video/7260218332199046442</id>
     <title>After surviving harrowing encounters with the otherworldly, The Circle of the Vassal and the Veil are leveling up! But what horrors still lurk in the dark reaches of the Fairelands yet to be discovered?… The Candela Obscura Chapter 1 finale haunts Twitch </title>
@@ -51,5 +43,13 @@
     <content>“They forgot me” 😭 #criticalrole #critrole #samriegel #robbiedaymond #ashleyjohnson #matthewmercer #liamobbrien #marisharay #laurabailey #traviswillingham #sdcc #sandiegocomiccon #bts #backstage #greenroom #funnyrun </content>
     <link href="https://tiktok.com/@criticalrole/video/7262073479258737963" rel="alternate"/>
     <published>2023-07-31T19:54:17+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@criticalrole/video/7262424601701977390</id>
+    <title>Don’t you want an all new 4-Sided Dive toniiiiiight? 🍻 #criticalrole #critrole #maatthewmercer #traviswillingham #taliesinjaffe #danicarr #criticalroletiktok #singing #80smusicthrowback #dontyouwantme #song #music #acapella #singing #bellshells #criticalr</title>
+    <updated>2023-08-01T18:36:47+00:00</updated>
+    <content>Don’t you want an all new 4-Sided Dive toniiiiiight? 🍻 #criticalrole #critrole #maatthewmercer #traviswillingham #taliesinjaffe #danicarr #criticalroletiktok #singing #80smusicthrowback #dontyouwantme #song #music #acapella #singing #bellshells #criticalrolecampaign3 #dnd #fyp </content>
+    <link href="https://tiktok.com/@criticalrole/video/7262424601701977390" rel="alternate"/>
+    <published>2023-08-01T18:36:47+00:00</published>
   </entry>
 </feed>
