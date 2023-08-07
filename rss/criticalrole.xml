@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@criticalrole</id>
   <title>criticalrole TikTok</title>
-  <updated>2023-08-03T17:02:11+00:00</updated>
+  <updated>2023-08-07T16:38:45+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://bo0tzz.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from criticalrole</subtitle>
-  <entry>
-    <id>https://tiktok.com/@criticalrole/video/7260909195510222122</id>
-    <title>Orym’s mom has got it going on 🎶 #criticalrole #critrole #matthewmercer #liamobrien #ashleyjohnson #marisharay #traviswillingham #laurabailey #samriegel #taliesinjaffe #bellshells #criticalrolecampaign3 #fearnecalloway #orymoftheairashari #dnd #mom #dunge</title>
-    <updated>2023-07-28T16:36:22+00:00</updated>
-    <content>Orym’s mom has got it going on 🎶 #criticalrole #critrole #matthewmercer #liamobrien #ashleyjohnson #marisharay #traviswillingham #laurabailey #samriegel #taliesinjaffe #bellshells #criticalrolecampaign3 #fearnecalloway #orymoftheairashari #dnd #mom #dungeonsanddragons #thelastofus #momjokes </content>
-    <link href="https://tiktok.com/@criticalrole/video/7260909195510222122" rel="alternate"/>
-    <published>2023-07-28T16:36:22+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@criticalrole/video/7262073479258737963</id>
     <title>“They forgot me” 😭 #criticalrole #critrole #samriegel #robbiedaymond #ashleyjohnson #matthewmercer #liamobbrien #marisharay #laurabailey #traviswillingham #sdcc #sandiegocomiccon #bts #backstage #greenroom #funnyrun </title>
@@ -51,5 +43,13 @@
     <content>🐀🪁 #criticalrole #critrole #marisharay #marisharayedit #matthewmercer #mattmercer #patederolo #laurabailey #taliesinjaffe #ashleyjohnson #bellshells #laudnacriticalrole #criticalrolecampaign3 #voiceactor #dnd #dungeonsanddragons #familiar #rat #ttrpg #roleplay #roleplayer #tabletop #dndtok  </content>
     <link href="https://tiktok.com/@criticalrole/video/7263142388133023018" rel="alternate"/>
     <published>2023-08-03T17:02:11+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@criticalrole/video/7264620684373052718</id>
+    <title>Roll me a strength check? 📒🧽 #criticalrole #critrole #marisharay #marisharayedit #samriegel #traviswilligham #laudnacriticalrole #freshcutgrass #chetneypockopea #charactersheet #dnd #dndmemes #dndtok #marker #dryerasemarker #erasing #dungeonsanddragons #f</title>
+    <updated>2023-08-07T16:38:45+00:00</updated>
+    <content>Roll me a strength check? 📒🧽 #criticalrole #critrole #marisharay #marisharayedit #samriegel #traviswilligham #laudnacriticalrole #freshcutgrass #chetneypockopea #charactersheet #dnd #dndmemes #dndtok #marker #dryerasemarker #erasing #dungeonsanddragons #fyp #voiceactor #improv </content>
+    <link href="https://tiktok.com/@criticalrole/video/7264620684373052718" rel="alternate"/>
+    <published>2023-08-07T16:38:45+00:00</published>
   </entry>
 </feed>
