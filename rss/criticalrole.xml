@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@criticalrole</id>
   <title>criticalrole TikTok</title>
-  <updated>2023-08-07T16:38:45+00:00</updated>
+  <updated>2023-08-09T18:43:48+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,22 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://bo0tzz.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from criticalrole</subtitle>
-  <entry>
-    <id>https://tiktok.com/@criticalrole/video/7262073479258737963</id>
-    <title>“They forgot me” 😭 #criticalrole #critrole #samriegel #robbiedaymond #ashleyjohnson #matthewmercer #liamobbrien #marisharay #laurabailey #traviswillingham #sdcc #sandiegocomiccon #bts #backstage #greenroom #funnyrun </title>
-    <updated>2023-07-31T19:54:17+00:00</updated>
-    <content>“They forgot me” 😭 #criticalrole #critrole #samriegel #robbiedaymond #ashleyjohnson #matthewmercer #liamobbrien #marisharay #laurabailey #traviswillingham #sdcc #sandiegocomiccon #bts #backstage #greenroom #funnyrun </content>
-    <link href="https://tiktok.com/@criticalrole/video/7262073479258737963" rel="alternate"/>
-    <published>2023-07-31T19:54:17+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@criticalrole/video/7262424601701977390</id>
-    <title>Don’t you want an all new 4-Sided Dive toniiiiiight? 🍻 #criticalrole #critrole #maatthewmercer #traviswillingham #taliesinjaffe #danicarr #criticalroletiktok #singing #80smusicthrowback #dontyouwantme #song #music #acapella #singing #bellshells #criticalr</title>
-    <updated>2023-08-01T18:36:47+00:00</updated>
-    <content>Don’t you want an all new 4-Sided Dive toniiiiiight? 🍻 #criticalrole #critrole #maatthewmercer #traviswillingham #taliesinjaffe #danicarr #criticalroletiktok #singing #80smusicthrowback #dontyouwantme #song #music #acapella #singing #bellshells #criticalrolecampaign3 #dnd #fyp </content>
-    <link href="https://tiktok.com/@criticalrole/video/7262424601701977390" rel="alternate"/>
-    <published>2023-08-01T18:36:47+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@criticalrole/video/7262782942760488235</id>
     <title>Take a spin at #sdcc2023 and catch up on your SAM FACTS #ashleyjohnson #ashleyjohnsonedit #liamobrien #marisharay #marisharayedit #anjalibhimani #samriegel #comiccon #sandiegocomiccon #golfcart #interview #driving #criticalrole #critrole #voiceactor #behi</title>
@@ -51,5 +35,21 @@
     <content>Roll me a strength check? 📒🧽 #criticalrole #critrole #marisharay #marisharayedit #samriegel #traviswilligham #laudnacriticalrole #freshcutgrass #chetneypockopea #charactersheet #dnd #dndmemes #dndtok #marker #dryerasemarker #erasing #dungeonsanddragons #fyp #voiceactor #improv </content>
     <link href="https://tiktok.com/@criticalrole/video/7264620684373052718" rel="alternate"/>
     <published>2023-08-07T16:38:45+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@criticalrole/video/7265005423407762731</id>
+    <title>🎈🔒 #criticalrole #critrole #marisharay #samriegel #traviswillingham #matthewmercer #popandlock #dance #dnd #dancing #dungeonsanddragons #laudnacriticalrole #freshcutgrass #chetneypockopea #bellshells #criticalroletiktok #dndtok #fyp #criticalrolecampaign3</title>
+    <updated>2023-08-08T17:31:38+00:00</updated>
+    <content>🎈🔒 #criticalrole #critrole #marisharay #samriegel #traviswillingham #matthewmercer #popandlock #dance #dnd #dancing #dungeonsanddragons #laudnacriticalrole #freshcutgrass #chetneypockopea #bellshells #criticalroletiktok #dndtok #fyp #criticalrolecampaign3 #dndmemes #voiceactor </content>
+    <link href="https://tiktok.com/@criticalrole/video/7265005423407762731" rel="alternate"/>
+    <published>2023-08-08T17:31:38+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@criticalrole/video/7265395074811432235</id>
+    <title>“Pettiness is kind of our love language”   #criticalrole #critrole #ashleyjohnson #ashleyjohnsonedit #fearnecalloway #liamobrien #orymoftheairashari #matthewmercer #laurabailey #taliesinjaffe #samriegel #dnd #dndtok #dungeonsanddragonsmemes #dungeonsandra</title>
+    <updated>2023-08-09T18:43:48+00:00</updated>
+    <content>“Pettiness is kind of our love language”   #criticalrole #critrole #ashleyjohnson #ashleyjohnsonedit #fearnecalloway #liamobrien #orymoftheairashari #matthewmercer #laurabailey #taliesinjaffe #samriegel #dnd #dndtok #dungeonsanddragonsmemes #dungeonsandragons #voiceactor #petty #pettylevels #guidance #fyp </content>
+    <link href="https://tiktok.com/@criticalrole/video/7265395074811432235" rel="alternate"/>
+    <published>2023-08-09T18:43:48+00:00</published>
   </entry>
 </feed>
