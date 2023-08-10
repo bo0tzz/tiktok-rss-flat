@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@criticalrole</id>
   <title>criticalrole TikTok</title>
-  <updated>2023-08-09T18:43:48+00:00</updated>
+  <updated>2023-08-10T18:07:42+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://bo0tzz.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from criticalrole</subtitle>
-  <entry>
-    <id>https://tiktok.com/@criticalrole/video/7262782942760488235</id>
-    <title>Take a spin at #sdcc2023 and catch up on your SAM FACTS #ashleyjohnson #ashleyjohnsonedit #liamobrien #marisharay #marisharayedit #anjalibhimani #samriegel #comiccon #sandiegocomiccon #golfcart #interview #driving #criticalrole #critrole #voiceactor #behi</title>
-    <updated>2023-08-02T17:47:14+00:00</updated>
-    <content>Take a spin at #sdcc2023 and catch up on your SAM FACTS #ashleyjohnson #ashleyjohnsonedit #liamobrien #marisharay #marisharayedit #anjalibhimani #samriegel #comiccon #sandiegocomiccon #golfcart #interview #driving #criticalrole #critrole #voiceactor #behindthescenes #fyp #thelastofus #bellshells </content>
-    <link href="https://tiktok.com/@criticalrole/video/7262782942760488235" rel="alternate"/>
-    <published>2023-08-02T17:47:14+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@criticalrole/video/7263142388133023018</id>
     <title>🐀🪁 #criticalrole #critrole #marisharay #marisharayedit #matthewmercer #mattmercer #patederolo #laurabailey #taliesinjaffe #ashleyjohnson #bellshells #laudnacriticalrole #criticalrolecampaign3 #voiceactor #dnd #dungeonsanddragons #familiar #rat #ttrpg #rol</title>
@@ -51,5 +43,13 @@
     <content>“Pettiness is kind of our love language”   #criticalrole #critrole #ashleyjohnson #ashleyjohnsonedit #fearnecalloway #liamobrien #orymoftheairashari #matthewmercer #laurabailey #taliesinjaffe #samriegel #dnd #dndtok #dungeonsanddragonsmemes #dungeonsandragons #voiceactor #petty #pettylevels #guidance #fyp </content>
     <link href="https://tiktok.com/@criticalrole/video/7265395074811432235" rel="alternate"/>
     <published>2023-08-09T18:43:48+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@criticalrole/video/7265756883787451691</id>
+    <title>Are you ready for tonight’s stream? 💇‍♀️ #criticalrole #critrole #samriegel #laurabailey #laurabaileyedit #ashleyjohnson #ashleyjohnsonedit #freshcutgrass #imogentemult #fearnecalloway #criticalroleedit #criticalroletiktok #makeup #hair #greenroom #behind</title>
+    <updated>2023-08-10T18:07:42+00:00</updated>
+    <content>Are you ready for tonight’s stream? 💇‍♀️ #criticalrole #critrole #samriegel #laurabailey #laurabaileyedit #ashleyjohnson #ashleyjohnsonedit #freshcutgrass #imogentemult #fearnecalloway #criticalroleedit #criticalroletiktok #makeup #hair #greenroom #behindthescenes #hairandmakeup #fyp #thelastofus </content>
+    <link href="https://tiktok.com/@criticalrole/video/7265756883787451691" rel="alternate"/>
+    <published>2023-08-10T18:07:42+00:00</published>
   </entry>
 </feed>
