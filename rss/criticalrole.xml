@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@criticalrole</id>
   <title>criticalrole TikTok</title>
-  <updated>2023-08-10T18:07:42+00:00</updated>
+  <updated>2023-08-11T18:02:24+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://bo0tzz.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from criticalrole</subtitle>
-  <entry>
-    <id>https://tiktok.com/@criticalrole/video/7263142388133023018</id>
-    <title>🐀🪁 #criticalrole #critrole #marisharay #marisharayedit #matthewmercer #mattmercer #patederolo #laurabailey #taliesinjaffe #ashleyjohnson #bellshells #laudnacriticalrole #criticalrolecampaign3 #voiceactor #dnd #dungeonsanddragons #familiar #rat #ttrpg #rol</title>
-    <updated>2023-08-03T17:02:11+00:00</updated>
-    <content>🐀🪁 #criticalrole #critrole #marisharay #marisharayedit #matthewmercer #mattmercer #patederolo #laurabailey #taliesinjaffe #ashleyjohnson #bellshells #laudnacriticalrole #criticalrolecampaign3 #voiceactor #dnd #dungeonsanddragons #familiar #rat #ttrpg #roleplay #roleplayer #tabletop #dndtok  </content>
-    <link href="https://tiktok.com/@criticalrole/video/7263142388133023018" rel="alternate"/>
-    <published>2023-08-03T17:02:11+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@criticalrole/video/7264620684373052718</id>
     <title>Roll me a strength check? 📒🧽 #criticalrole #critrole #marisharay #marisharayedit #samriegel #traviswilligham #laudnacriticalrole #freshcutgrass #chetneypockopea #charactersheet #dnd #dndmemes #dndtok #marker #dryerasemarker #erasing #dungeonsanddragons #f</title>
@@ -51,5 +43,13 @@
     <content>Are you ready for tonight’s stream? 💇‍♀️ #criticalrole #critrole #samriegel #laurabailey #laurabaileyedit #ashleyjohnson #ashleyjohnsonedit #freshcutgrass #imogentemult #fearnecalloway #criticalroleedit #criticalroletiktok #makeup #hair #greenroom #behindthescenes #hairandmakeup #fyp #thelastofus </content>
     <link href="https://tiktok.com/@criticalrole/video/7265756883787451691" rel="alternate"/>
     <published>2023-08-10T18:07:42+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@criticalrole/video/7266126590256450859</id>
+    <title>What are you buillding this weekend? 🏰#criticalrole #critrole #samriegel #dnd #dungeonsanddragons #dndtok #mini #miniaturebuilding #dndmap #dndmini #dndminiatures #miniaturecollection #ttrpg #tabletop #dndsong #singing #improv #voiceactor </title>
+    <updated>2023-08-11T18:02:24+00:00</updated>
+    <content>What are you buillding this weekend? 🏰#criticalrole #critrole #samriegel #dnd #dungeonsanddragons #dndtok #mini #miniaturebuilding #dndmap #dndmini #dndminiatures #miniaturecollection #ttrpg #tabletop #dndsong #singing #improv #voiceactor </content>
+    <link href="https://tiktok.com/@criticalrole/video/7266126590256450859" rel="alternate"/>
+    <published>2023-08-11T18:02:24+00:00</published>
   </entry>
 </feed>
