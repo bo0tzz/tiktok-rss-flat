@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@criticalrole</id>
   <title>criticalrole TikTok</title>
-  <updated>2023-08-11T18:02:24+00:00</updated>
+  <updated>2023-08-14T20:57:28+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://bo0tzz.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from criticalrole</subtitle>
-  <entry>
-    <id>https://tiktok.com/@criticalrole/video/7264620684373052718</id>
-    <title>Roll me a strength check? 📒🧽 #criticalrole #critrole #marisharay #marisharayedit #samriegel #traviswilligham #laudnacriticalrole #freshcutgrass #chetneypockopea #charactersheet #dnd #dndmemes #dndtok #marker #dryerasemarker #erasing #dungeonsanddragons #f</title>
-    <updated>2023-08-07T16:38:45+00:00</updated>
-    <content>Roll me a strength check? 📒🧽 #criticalrole #critrole #marisharay #marisharayedit #samriegel #traviswilligham #laudnacriticalrole #freshcutgrass #chetneypockopea #charactersheet #dnd #dndmemes #dndtok #marker #dryerasemarker #erasing #dungeonsanddragons #fyp #voiceactor #improv </content>
-    <link href="https://tiktok.com/@criticalrole/video/7264620684373052718" rel="alternate"/>
-    <published>2023-08-07T16:38:45+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@criticalrole/video/7265005423407762731</id>
     <title>🎈🔒 #criticalrole #critrole #marisharay #samriegel #traviswillingham #matthewmercer #popandlock #dance #dnd #dancing #dungeonsanddragons #laudnacriticalrole #freshcutgrass #chetneypockopea #bellshells #criticalroletiktok #dndtok #fyp #criticalrolecampaign3</title>
@@ -51,5 +43,13 @@
     <content>What are you buillding this weekend? 🏰#criticalrole #critrole #samriegel #dnd #dungeonsanddragons #dndtok #mini #miniaturebuilding #dndmap #dndmini #dndminiatures #miniaturecollection #ttrpg #tabletop #dndsong #singing #improv #voiceactor </content>
     <link href="https://tiktok.com/@criticalrole/video/7266126590256450859" rel="alternate"/>
     <published>2023-08-11T18:02:24+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@criticalrole/video/7267284939849190702</id>
+    <title>Comment 🗡️ to romance the sword or ⚔️ to ignore it I just wanna see something… #criticalrole #critrole #samriegel #traviswillingham #laurabailey #marisharay #matthewmercer #taliesinjaffe #liamobrien #ashleyjohnson #jazz #sword #magicitem #dnditems #dnd #d</title>
+    <updated>2023-08-14T20:57:28+00:00</updated>
+    <content>Comment 🗡️ to romance the sword or ⚔️ to ignore it I just wanna see something… #criticalrole #critrole #samriegel #traviswillingham #laurabailey #marisharay #matthewmercer #taliesinjaffe #liamobrien #ashleyjohnson #jazz #sword #magicitem #dnditems #dnd #dungeonsanddragons #dndtok #tabletop #roleplay #improv #voiceactor #fyp </content>
+    <link href="https://tiktok.com/@criticalrole/video/7267284939849190702" rel="alternate"/>
+    <published>2023-08-14T20:57:28+00:00</published>
   </entry>
 </feed>
