@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@criticalrole</id>
   <title>criticalrole TikTok</title>
-  <updated>2023-08-14T20:57:28+00:00</updated>
+  <updated>2023-08-15T18:21:32+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://bo0tzz.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from criticalrole</subtitle>
-  <entry>
-    <id>https://tiktok.com/@criticalrole/video/7265005423407762731</id>
-    <title>🎈🔒 #criticalrole #critrole #marisharay #samriegel #traviswillingham #matthewmercer #popandlock #dance #dnd #dancing #dungeonsanddragons #laudnacriticalrole #freshcutgrass #chetneypockopea #bellshells #criticalroletiktok #dndtok #fyp #criticalrolecampaign3</title>
-    <updated>2023-08-08T17:31:38+00:00</updated>
-    <content>🎈🔒 #criticalrole #critrole #marisharay #samriegel #traviswillingham #matthewmercer #popandlock #dance #dnd #dancing #dungeonsanddragons #laudnacriticalrole #freshcutgrass #chetneypockopea #bellshells #criticalroletiktok #dndtok #fyp #criticalrolecampaign3 #dndmemes #voiceactor </content>
-    <link href="https://tiktok.com/@criticalrole/video/7265005423407762731" rel="alternate"/>
-    <published>2023-08-08T17:31:38+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@criticalrole/video/7265395074811432235</id>
     <title>“Pettiness is kind of our love language”   #criticalrole #critrole #ashleyjohnson #ashleyjohnsonedit #fearnecalloway #liamobrien #orymoftheairashari #matthewmercer #laurabailey #taliesinjaffe #samriegel #dnd #dndtok #dungeonsanddragonsmemes #dungeonsandra</title>
@@ -51,5 +43,13 @@
     <content>Comment 🗡️ to romance the sword or ⚔️ to ignore it I just wanna see something… #criticalrole #critrole #samriegel #traviswillingham #laurabailey #marisharay #matthewmercer #taliesinjaffe #liamobrien #ashleyjohnson #jazz #sword #magicitem #dnditems #dnd #dungeonsanddragons #dndtok #tabletop #roleplay #improv #voiceactor #fyp </content>
     <link href="https://tiktok.com/@criticalrole/video/7267284939849190702" rel="alternate"/>
     <published>2023-08-14T20:57:28+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@criticalrole/video/7267615875459599658</id>
+    <title>He was a fiend, she was Fearne. Can I make it more obviouuus? 🎶 #criticalrole #critrole #ashleyjohnson #ashleyjohnsonedit #samriegel #fearnecalloway #matthewmercer #laurabailey #traviswilligham #marisharay #liamobrien #taliesinjaffe #dnd #dndtok #romancen</title>
+    <updated>2023-08-15T18:21:32+00:00</updated>
+    <content>He was a fiend, she was Fearne. Can I make it more obviouuus? 🎶 #criticalrole #critrole #ashleyjohnson #ashleyjohnsonedit #samriegel #fearnecalloway #matthewmercer #laurabailey #traviswilligham #marisharay #liamobrien #taliesinjaffe #dnd #dndtok #romancenovel #fantasy #dungeonsanddragons #smut #voiceactor #improv #roleplay #thelastofus #criticalroletiktok </content>
+    <link href="https://tiktok.com/@criticalrole/video/7267615875459599658" rel="alternate"/>
+    <published>2023-08-15T18:21:32+00:00</published>
   </entry>
 </feed>
